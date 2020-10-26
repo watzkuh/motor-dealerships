@@ -1,0 +1,4556 @@
+[
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "12210 E. FIRST STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "12210 E. FIRST STREET, 74128 TULSA, Tulsa County, Oklahoma, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "OCT EQUIPMENT, LLC - TULSA ",
+            "geometry": {
+                "location": {
+                    "lat": 36.15789607784238,
+                    "lon": -95.84009170532227,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125708-97",
+            "formatted_phone_number": "(918) 437-5085",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "7100 SOUTHWEST THIRD STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "7100 SOUTHWEST THIRD STREET, 73128 OKLAHOMA CITY , Oklahoma County, Oklahoma, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "OCT EQUIPMENT, LLC - OKLAHOMA CITY ",
+            "geometry": {
+                "location": {
+                    "lat": 35.46143022233405,
+                    "lon": -97.63769745826723,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125708-98",
+            "formatted_phone_number": "(405) 789-6812",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "13423 LYNAM DRIVE",
+                "fax": "4025588249",
+                "pointtype": "Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.ai-engines.com"
+            },
+            "formatted_address": "13423 LYNAM DRIVE, 68138 OMAHA, Sarpy County, Nebraska, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "ANDERSON INDUSTRIAL ENGINES",
+            "geometry": {
+                "location": {
+                    "lat": 41.15515101678676,
+                    "lon": -96.12436294555664,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125633-00",
+            "formatted_phone_number": "4025588700 ",
+            "url": "www.ai-engines.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "408 SE 9th St.",
+                "fax": "00 ",
+                "mail": "Pella@titanmachinery.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.titanmachinery.com"
+            },
+            "formatted_address": "408 SE 9th St., 50219 PELLA, Marion County, Iowa, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TITAN MACHINERY INC.",
+            "geometry": {
+                "location": {
+                    "lat": 41.392457223896855,
+                    "lon": -92.9006588459015,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-123819-00",
+            "formatted_phone_number": "00 1 641 3169247",
+            "url": "https://www.titanmachinery.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "904 US-65",
+                "fax": "00 1 870 2221220",
+                "mail": "pashford@southarkequipment.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.southarkequipment.com"
+            },
+            "formatted_address": "904 US-65, 71654 MCGEHEE, Desha County, Arkansas, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "SOUTH ARK EQUIPMENT",
+            "geometry": {
+                "location": {
+                    "lat": 33.60461177997738,
+                    "lon": -91.38360142707825,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-156878-00",
+            "formatted_phone_number": "00 1 870 2221206",
+            "url": "https://www.southarkequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "406 North Old US Rte. 66",
+                "fax": "00 1 618 6332456",
+                "mail": "Service.Hamel@SieversEquipment.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.sieversequipment.com"
+            },
+            "formatted_address": "406 North Old US Rte. 66, 62046 HAMEL, Madison County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "SIEVERS EQUIPMENT COMPANY",
+            "geometry": {
+                "location": {
+                    "lat": 38.895917816526165,
+                    "lon": -89.83553767204286,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-113153-00",
+            "formatted_phone_number": "00 1 618 6332622",
+            "url": "https://www.sieversequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1451 INDUSTRIAL PARK ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.stollerih.com/"
+            },
+            "formatted_address": "1451 INDUSTRIAL PARK ROAD, 61760 MINONK, Woodford County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLLER INTERNATIONAL - MINONK",
+            "geometry": {
+                "location": {
+                    "lat": 40.911672086480564,
+                    "lon": -89.0500259399414,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-91",
+            "formatted_phone_number": "3094322525",
+            "url": "https://www.stollerih.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "9000 NORTH KENTUCKY AVENUE",
+                "fax": "8128672388",
+                "mail": "enginesales@evapar.com",
+                "pointtype": "Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.evapar.com"
+            },
+            "formatted_address": "9000 NORTH KENTUCKY AVENUE, 47725 EVANSVILLE, Vanderburgh County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "EVAPAR INC. - EVANSVILLE",
+            "geometry": {
+                "location": {
+                    "lat": 38.06136307197827,
+                    "lon": -87.54677653312685,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-00",
+            "formatted_phone_number": "8128679900",
+            "url": "www.evapar.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1830 NORTH RD, 15521",
+                "fax": "8158423213",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.stollerih.com/"
+            },
+            "formatted_address": "1830 NORTH RD, 15521, 61764 PONTIAC, Livingston County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLLER INTERNATIONAL - PONTIAC",
+            "geometry": {
+                "location": {
+                    "lat": 40.89275342420695,
+                    "lon": -88.63145112991334,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-92",
+            "formatted_phone_number": "8158446197",
+            "url": "https://www.stollerih.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1902 E. STATE ROUTE 18",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.stollerih.com/"
+            },
+            "formatted_address": "1902 E. STATE ROUTE 18, 61364 STREATOR, LaSalle County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLLER INTERNATIONAL - STREATOR",
+            "geometry": {
+                "location": {
+                    "lat": 41.120478873597754,
+                    "lon": -88.79522681236267,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-96",
+            "formatted_phone_number": "8156733363",
+            "url": "https://www.stollerih.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3196 ILLINOIS AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.stollerih.com/"
+            },
+            "formatted_address": "3196 ILLINOIS AVENUE, 61350 OTTAWA, LaSalle County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLLER INTERNATIONAL - OTTAWA",
+            "geometry": {
+                "location": {
+                    "lat": 41.3404092686419,
+                    "lon": -88.86524319648744,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-98",
+            "formatted_phone_number": "8154332211",
+            "url": "https://www.stollerih.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "525 PARKLAND DRIVE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "525 PARKLAND DRIVE, 69162 SIDNEY, Cheyenne County, Nebraska, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HORIZONWEST, INC. - SIDNEY",
+            "geometry": {
+                "location": {
+                    "lat": 41.12672622251337,
+                    "lon": -102.96956419944765,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125633-99",
+            "formatted_phone_number": "(308) 254-2270",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "111 State Highway 22 S",
+                "fax": "00 ",
+                "mail": "tlmiller@hickorytech.net",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.generatorsystemservices.com/"
+            },
+            "formatted_address": "111 State Highway 22 S, 56065 MAPLETON, Blue Earth County, Minnesota, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GENERATOR SYSTEM SERVICE",
+            "geometry": {
+                "location": {
+                    "lat": 43.92895496619741,
+                    "lon": -93.9474606513977,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-S10153-00",
+            "formatted_phone_number": "00 1 507 5244940",
+            "url": "https://www.generatorsystemservices.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1030 SOUTH 7TH STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.johnsontractor.com"
+            },
+            "formatted_address": "1030 SOUTH 7TH STREET, 61068 ROCHELLE, Ogle County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JOHNSON TRACTOR, INC. - ROCHELLE",
+            "geometry": {
+                "location": {
+                    "lat": 41.90778666837614,
+                    "lon": -89.06928420066835,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-88",
+            "formatted_phone_number": "8155622135",
+            "url": "www.johnsontractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "11364 WEST ROUTE 115",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.stollerih.com/"
+            },
+            "formatted_address": "11364 WEST ROUTE 115, 60941 HERSCHER, Kankakee County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLLER INTERNATIONAL - HERSCHER",
+            "geometry": {
+                "location": {
+                    "lat": 41.05655690705982,
+                    "lon": -88.08377623558046,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-99",
+            "formatted_phone_number": "8154262119",
+            "url": "https://www.stollerih.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3737 11TH STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "3737 11TH STREET, 61109 ROCKFORD, Winnebago County, Illinois, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MILLER-BRADFORD & RISBERG, INC. - ROCKFORD ",
+            "geometry": {
+                "location": {
+                    "lat": 42.2167665200914,
+                    "lon": -89.07327532768251,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-89",
+            "formatted_phone_number": "(815) 397-6200",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "313 DEERWOOD GLEN DR.",
+                "fax": "2818600524",
+                "pointtype": "Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.labordeproducts.com"
+            },
+            "formatted_address": "313 DEERWOOD GLEN DR., 77530 DEER PARK, Harris County, Texas, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "LABORDE PRODUCTS - CHANNELVIEW",
+            "geometry": {
+                "location": {
+                    "lat": 29.76939718629851,
+                    "lon": -95.11104583740234,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125708-00",
+            "formatted_phone_number": "2812478925",
+            "url": "www.labordeproducts.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3040 MN-60",
+                "fax": "5073342236",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.matejcek.com"
+            },
+            "formatted_address": "3040 MN-60, 55021 FARIBAULT, Rice County, Minnesota, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MATEJCEK IMPLEMENT COMPANY",
+            "geometry": {
+                "location": {
+                    "lat": 44.29182511668578,
+                    "lon": -93.31060767173767,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-90",
+            "formatted_phone_number": "5073342233",
+            "url": "www.matejcek.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "8311 INDUSTRIAL DRIVE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "8311 INDUSTRIAL DRIVE, 77584 PEARLAND, Brazoria County, Texas, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PROGRESSIVE DIESEL RED, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 29.528947146108248,
+                    "lon": -95.2733087539673,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-97",
+            "formatted_phone_number": "(281) 993-0099",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1110 N HWY 14",
+                "mail": "briand@johnsontractor.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.johnsontractor.com"
+            },
+            "formatted_address": "1110 N HWY 14, 53546 JANESVILLE, TOWN OF, Rock County, Wisconsin, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JOHNSON TRACTOR, INC. - JANESVILLE, TOWN OF",
+            "geometry": {
+                "location": {
+                    "lat": 42.69641749044826,
+                    "lon": -88.9528226852417,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-89",
+            "formatted_phone_number": "8003451086",
+            "url": "www.johnsontractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2401 WEST 20TH STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "2401 WEST 20TH STREET, 69361 SCOTTSBLUFF, Scotts Bluff County, Nebraska, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HORIZONWEST, INC. - SCOTTSBLUFF",
+            "geometry": {
+                "location": {
+                    "lat": 41.86751550737103,
+                    "lon": -103.692923784256,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125633-98",
+            "formatted_phone_number": "(308) 635-3727",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "4190 BEAR TREE PARKWAY",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "4190 BEAR TREE PARKWAY, 53532 DEFOREST, Dane County, Wisconsin, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MILLER-BRADFORD & RISBERG, INC. - DEFOREST ",
+            "geometry": {
+                "location": {
+                    "lat": 43.20420608967523,
+                    "lon": -89.32072520256044,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-85",
+            "formatted_phone_number": "(608) 222-9191",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "WEST STATE ROAD 26, 3340",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.newhollandrochester.com/"
+            },
+            "formatted_address": "WEST STATE ROAD 26, 3340, 46065 ROSSVILLE, Clinton County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RODKEY NEW HOLLAND",
+            "geometry": {
+                "location": {
+                    "lat": 40.41771917721197,
+                    "lon": -86.56898260116579,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-97",
+            "formatted_phone_number": "7653793331",
+            "url": "https://www.newhollandrochester.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3451 DEVELOPERS ROAD",
+                "fax": "3177835870",
+                "mail": "enginesales@evapar.com",
+                "pointtype": "Sub Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.evapar.com"
+            },
+            "formatted_address": "3451 DEVELOPERS ROAD, 46227 INDIANAPOLIS, Marion County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "EVAPAR INC. - INDIANAPOLIS",
+            "geometry": {
+                "location": {
+                    "lat": 39.715968249641634,
+                    "lon": -86.12403631210329,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-84",
+            "formatted_phone_number": "3177835434",
+            "url": "www.evapar.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2859 LEXINGTON S AVENUE",
+                "fax": "6514529182",
+                "mail": "info@northernpowerproducts.com",
+                "pointtype": "Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nppi.com"
+            },
+            "formatted_address": "2859 LEXINGTON S AVENUE, 55121 EAGAN, Dakota County, Minnesota, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NORTHERN POWER PRODUCTS, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 44.852826529852116,
+                    "lon": -93.14772248268127,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-00",
+            "formatted_phone_number": "6514528900",
+            "url": "www.nppi.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "74257 HWY 25",
+                "fax": "(985) 892 7656",
+                "mail": "info@labordeproducts.com",
+                "pointtype": "Sub Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.labordeproducts.com"
+            },
+            "formatted_address": "74257 HWY 25, 70435 COVINGTON, St. Tammany Parish, Louisiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "LABORDE PRODUCTS - COVINGTON",
+            "geometry": {
+                "location": {
+                    "lat": 30.507693131703384,
+                    "lon": -90.11448740959167,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125708-99",
+            "formatted_phone_number": "9858920107",
+            "url": "www.labordeproducts.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "11120 PLANTSIDE DR",
+                "fax": "5022676206",
+                "mail": "enginesales@evapar.com",
+                "pointtype": "Sub Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.evapar.com"
+            },
+            "formatted_address": "11120 PLANTSIDE DR, 40299 LOUISVILLE, Jefferson County, Kentucky, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "EVAPAR INC. - LOUISVILLE",
+            "geometry": {
+                "location": {
+                    "lat": 38.20928694575213,
+                    "lon": -85.54980754852295,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-82",
+            "formatted_phone_number": "5022676315",
+            "url": "www.evapar.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2079 U.S. 35",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nhlogan.com"
+            },
+            "formatted_address": "2079 U.S. 35, 46947 WASHINGTON TOWNSHIP, Cass County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NEW HOLLAND LOGANSPORT, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 40.735266896577905,
+                    "lon": -86.33894562721254,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-94",
+            "formatted_phone_number": "5747536291",
+            "url": "www.nhlogan.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1000 EAST VALLEY ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "1000 EAST VALLEY ROAD, 82240 TORRINGTON, Goshen County, Wyoming, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HORIZONWEST, INC. - TORRINGTON",
+            "geometry": {
+                "location": {
+                    "lat": 42.05786444448171,
+                    "lon": -104.17372584342957,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-93",
+            "formatted_phone_number": "(307) 532-2755",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "W250 N6851 HWY164",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "W250 N6851 HWY164, 53089 SUSSEX, Waukesha County, Wisconsin, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MILLER-BRADFORD & RISBERG, INC. - SUSSEX ",
+            "geometry": {
+                "location": {
+                    "lat": 43.142291517011756,
+                    "lon": -88.24483752250673,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-96",
+            "formatted_phone_number": "(262) 246-5700",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "537 UNCLE TOM STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nhgt.net"
+            },
+            "formatted_address": "537 UNCLE TOM STREET, 46936 LIBERTY TOWNSHIP, Howard County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NEW HOLLAND GREENTOWN, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 40.47973673413777,
+                    "lon": -85.96065759658813,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-95",
+            "formatted_phone_number": "7656283305",
+            "url": "www.nhgt.net"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2525 ALPINE ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "2525 ALPINE ROAD, 54703 EAU CLAIRE, Eau Claire County, Wisconsin, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MILLER-BRADFORD & RISBERG, INC. - EAU CLAIRE ",
+            "geometry": {
+                "location": {
+                    "lat": 44.83863978938392,
+                    "lon": -91.54704451560976,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-91",
+            "formatted_phone_number": "(715) 832-3443",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1260 E 100 S",
+                "fax": "5742238088",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.newhollandrochester.com"
+            },
+            "formatted_address": "1260 E 100 S, 46975 ROCHESTER, Fulton County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NEW HOLLAND ROCHESTER, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 41.040576814755546,
+                    "lon": -86.22402906417848,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-83",
+            "formatted_phone_number": "5742232714",
+            "url": "www.newhollandrochester.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "980 MOTSIE ROAD",
+                "fax": "2283929507",
+                "mail": "tom@kennedyengine.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://kennedyengine.com"
+            },
+            "formatted_address": "980 MOTSIE ROAD, 39532 BILOXI, Harrison County, Mississippi, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "KENNEDY ENGINE CO.",
+            "geometry": {
+                "location": {
+                    "lat": 30.446407610641415,
+                    "lon": -88.92694473266603,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-95",
+            "formatted_phone_number": "2283922200",
+            "url": "http://kennedyengine.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3100 WEST INDUSTRIES ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nhcenter.net"
+            },
+            "formatted_address": "3100 WEST INDUSTRIES ROAD, 47374 CENTER TOWNSHIP, Wayne County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NEW HOLLAND RICHMOND, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 39.8632066343463,
+                    "lon": -84.94136452674867,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-93",
+            "formatted_phone_number": "7659627724",
+            "url": "www.nhcenter.net"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2675 INDIANA 1",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nhtrico.net"
+            },
+            "formatted_address": "2675 INDIANA 1, 46714 BLUFFTON, Wells County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NEW HOLLAND TRI COUNTY, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 40.70426154461528,
+                    "lon": -85.16600489616394,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-81",
+            "formatted_phone_number": "2608244638",
+            "url": "www.nhtrico.net"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "530 MARATECH AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "530 MARATECH AVENUE, 54448 MARATHON, Marathon County, Wisconsin, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MILLER-BRADFORD & RISBERG, INC. - MARATHON ",
+            "geometry": {
+                "location": {
+                    "lat": 44.94148854315687,
+                    "lon": -89.83585953712463,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-88",
+            "formatted_phone_number": "(715) 443-6600",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3810 CONCEPT COURT",
+                "fax": "2604977483",
+                "mail": "enginesales@evapar.com",
+                "pointtype": "Sub Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.evapar.com"
+            },
+            "formatted_address": "3810 CONCEPT COURT, 46808 FORT WAYNE, Allen County, Indiana, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "EVAPAR INC. - FORT WAYNE",
+            "geometry": {
+                "location": {
+                    "lat": 41.112840620988116,
+                    "lon": -85.19339561462404,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-85",
+            "formatted_phone_number": "2604977406",
+            "url": "www.evapar.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3203 FRENCH ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "3203 FRENCH ROAD, 54115 DE PERE, Brown County, Wisconsin, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MILLER-BRADFORD & RISBERG, INC. - DE PERE",
+            "geometry": {
+                "location": {
+                    "lat": 44.37821862900026,
+                    "lon": -88.16432833671571,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-87",
+            "formatted_phone_number": "(920) 338-5800",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1000 Northbrook Parkway B",
+                "fax": "00 1 770 9639678",
+                "mail": "info@kraftpower.com",
+                "pointtype": "Dealer",
+                "services": "~SN~MN~MG~SP~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.kraftpower.com"
+            },
+            "formatted_address": "1000 Northbrook Parkway B, 30024 SUWANEE, Gwinnett County, Georgia, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "KRAFT POWER - SUWANEE",
+            "geometry": {
+                "location": {
+                    "lat": 34.012755798492975,
+                    "lon": -84.0625011920929,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-195898-00",
+            "formatted_phone_number": "00 1 800 3940078",
+            "url": "http://www.kraftpower.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1605 PARK AVENUE SUITE D",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "1605 PARK AVENUE SUITE D, 58504 BISMARK, Burleigh County, North Dakota, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NORTHERN CRANE & RAIL SERVICES",
+            "geometry": {
+                "location": {
+                    "lat": 46.789945277406964,
+                    "lon": -100.76730966567995,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-86",
+            "formatted_phone_number": "(701)-751-0310",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "7581 E. MONROE ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jansonequipment.com"
+            },
+            "formatted_address": "7581 E. MONROE ROAD, 48615 BRECKENRIDGE, Gratiot County, Michigan, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JANSON EQUIPMENT",
+            "geometry": {
+                "location": {
+                    "lat": 43.40873424564218,
+                    "lon": -84.45774078369142,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-87",
+            "formatted_phone_number": "9898423141",
+            "url": "www.jansonequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2450 GA HWY 308",
+                "services": "~MN~MG~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "2450 GA HWY 308, 31787 SMITHVILLE, Sumter County, Georgia, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TIDEWATER EQUIPMENT CO. - SMITHVILLE",
+            "geometry": {
+                "location": {
+                    "lat": 31.9232546739609,
+                    "lon": -84.26660656929016,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-187045-00",
+            "formatted_phone_number": "(229) 924-3671",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "165 U.S. 41 EAST",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "165 U.S. 41 EAST, 49866 NEGAUNEE , Marquette County, Michigan, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MILLER-BRADFORD & RISBERG, INC. - NEGAUNEE ",
+            "geometry": {
+                "location": {
+                    "lat": 46.52988212961307,
+                    "lon": -87.55467295646669,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-95",
+            "formatted_phone_number": "(906) 475-4181",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "476 ONTARIO 77",
+                "fax": "5193220026",
+                "mail": "info@genrep.com",
+                "pointtype": "Sub Dealer",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.genrep.com"
+            },
+            "formatted_address": "476 ONTARIO 77, N0P 2J0 LEAMINGTON, Essex County, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GENREP LTD/LTEE - LEAMINGTON",
+            "geometry": {
+                "location": {
+                    "lat": 42.081000948900694,
+                    "lon": -82.59737133979799,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-78",
+            "formatted_phone_number": "5193250202",
+            "url": "www.genrep.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "800 SANILAC ROAD",
+                "fax": "8106485838",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.tnteq.com/"
+            },
+            "formatted_address": "800 SANILAC ROAD, 48471 SANDUSKY, Sanilac County, Michigan, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TNT EQUIPMENT, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 43.42086077042284,
+                    "lon": -82.85808205604555,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125621-90",
+            "formatted_phone_number": "8106484050",
+            "url": "https://www.tnteq.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "FOREST RD, 6974",
+                "fax": "5197866819",
+                "mail": "forest@deltapower.ca",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.deltapower.ca/locations/forest.html"
+            },
+            "formatted_address": "FOREST RD, 6974, N0N 1J4 FOREST, Lambton County, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "DELTA POWER EQUIPMENT (FOREST) LTD.",
+            "geometry": {
+                "location": {
+                    "lat": 43.050309442540545,
+                    "lon": -82.00180292129517,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-86",
+            "formatted_phone_number": "5197865335",
+            "url": "http://www.deltapower.ca/locations/forest.html"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1061 Texland Blvd.",
+                "fax": "00 1 704 5045160",
+                "mail": "info@kraftpower.com",
+                "pointtype": "Dealer",
+                "services": "~SN~MN~MG~SP~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.kraftpower.com"
+            },
+            "formatted_address": "1061 Texland Blvd., 28273 CHARLOTTE, Mecklenburg County, North Carolina, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "KRAFT POWER - CHARLOTTE",
+            "geometry": {
+                "location": {
+                    "lat": 35.12016306445131,
+                    "lon": -80.91625928878784,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-197153-00",
+            "formatted_phone_number": "00 1 704 5043033",
+            "url": "http://www.kraftpower.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "9057 HIGHWAY 67",
+                "services": "~MN~MG~MC~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "9057 HIGHWAY 67, 30415 BROOKLET, Bulloch County, Georgia, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TIDEWATER EQUIPMENT CO. - BROOKLET",
+            "geometry": {
+                "location": {
+                    "lat": 32.291821682192655,
+                    "lon": -81.72702670097351,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-187052-00",
+            "formatted_phone_number": "(912) 839-2532",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "71301 LONDON ROAD",
+                "fax": "5192352791",
+                "mail": "exeter@deltapower.ca",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.deltapower.ca/locations/exeter.html"
+            },
+            "formatted_address": "71301 LONDON ROAD, NOM 1S1 EXETER, Huron County, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "DELTA POWER EQUIPMENT (EXETER) LTD.",
+            "geometry": {
+                "location": {
+                    "lat": 43.36603829685554,
+                    "lon": -81.48524165153505,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-85",
+            "formatted_phone_number": "5192352121",
+            "url": "http://www.deltapower.ca/locations/exeter.html"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "100 SMITH DR.",
+                "fax": "7248981540",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.grofftractor.com"
+            },
+            "formatted_address": "100 SMITH DR., 16066 CRANBERRY TOWNSHIP, Butler County, Pennsylvania, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GROFF TRACTOR - CRANBERRY TOWNSHIP",
+            "geometry": {
+                "location": {
+                    "lat": 40.697705718835586,
+                    "lon": -80.10493397712708,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-120262-00",
+            "formatted_phone_number": "7248981535",
+            "url": "www.grofftractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "HYDRO LINE ROAD, ON N0K 1W0",
+                "fax": "5195272572",
+                "mail": "seaforth@deltapower.ca",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.deltapower.ca/locations/seaforth.html"
+            },
+            "formatted_address": "HYDRO LINE ROAD, ON N0K 1W0, 42787 SEAFORTH, Huron County, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "DELTA POWER EQUIPMENT (SEAFORTH) LTD.",
+            "geometry": {
+                "location": {
+                    "lat": 43.568957080298766,
+                    "lon": -81.38226628303529,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-79",
+            "formatted_phone_number": "5195270120",
+            "url": "http://www.deltapower.ca/locations/seaforth.html"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "8499 R. 164, HWY. 23 NORTH",
+                "fax": "5192915775",
+                "mail": "stoltzl@stoltzsales.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "http://stoltzsales.com/"
+            },
+            "formatted_address": "8499 R. 164, HWY. 23 NORTH, N4W3H2  LISTOWEL, Perth County, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLTZ SALES & SERVICE - LISTOWEL",
+            "geometry": {
+                "location": {
+                    "lat": 43.59062577922358,
+                    "lon": -81.07953071594238,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-92",
+            "formatted_phone_number": "5192912151",
+            "url": "http://stoltzsales.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1405 HWY. 9 NORTH",
+                "fax": "5193675888",
+                "mail": "mildmay@stoltzsales.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "http://stoltzsales.com/"
+            },
+            "formatted_address": "1405 HWY. 9 NORTH, N0G2J0  MILDMAY, Bruce County, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLTZ SALES & SERVICE - MILDMAY",
+            "geometry": {
+                "location": {
+                    "lat": 44.065409914363016,
+                    "lon": -81.13688707351685,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-93",
+            "formatted_phone_number": "5193672672",
+            "url": "http://stoltzsales.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2400 MECHANICS AVENUE",
+                "mail": "dhartley@hinckleyyachts.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.hinckleyyachts.com"
+            },
+            "formatted_address": "2400 MECHANICS AVENUE, 31404 SAVANNAH, Chatham County, Georgia, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "THE HINCKLEY COMPANY - SAVANNAH",
+            "geometry": {
+                "location": {
+                    "lat": 32.035983659758514,
+                    "lon": -81.04784846305849,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-69",
+            "formatted_phone_number": "(912)-629-2400",
+            "url": "www.hinckleyyachts.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "6805 LINE 86 WEST",
+                "fax": "5196693414",
+                "mail": "elmira@stoltzsales.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "http://stoltzsales.com/"
+            },
+            "formatted_address": "6805 LINE 86 WEST, N3B2Z6  ELMIRA, Waterloo Regional Municipality, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STOLTZ SALES & SERVICE - ELMIRA",
+            "geometry": {
+                "location": {
+                    "lat": 43.60305766556863,
+                    "lon": -80.58640122413635,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-95",
+            "formatted_phone_number": "5196691561",
+            "url": "http://stoltzsales.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2570 MAIN STREET",
+                "fax": "2088521025",
+                "mail": "nick@valley-implement.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://valley-implement.com/"
+            },
+            "formatted_address": "2570 MAIN STREET, 84341 LOGAN, Cache County, Utah, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "VALLEY IMPLEMENT & MOTOR CO., INC. - LOGAN",
+            "geometry": {
+                "location": {
+                    "lat": 41.77918483921369,
+                    "lon": -111.83240890502931,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-86",
+            "formatted_phone_number": "4357871586",
+            "url": "https://valley-implement.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "213 W. 800 NORTH",
+                "fax": "2088521311",
+                "mail": "richard@valley-implement.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://valley-implement.com/"
+            },
+            "formatted_address": "213 W. 800 NORTH, 83263 PRESTON, Franklin County, Idaho, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "VALLEY IMPLEMENT & MOTOR CO., INC. - PRESTON",
+            "geometry": {
+                "location": {
+                    "lat": 42.11092651183923,
+                    "lon": -111.8815577030182,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-85",
+            "formatted_phone_number": "2088520430",
+            "url": "https://valley-implement.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "7810 ARIZONA 87",
+                "fax": "5207239686",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.msequipment.com"
+            },
+            "formatted_address": "7810 ARIZONA 87, 85128 COOLIDGE, Pinal County, Arizona, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "M & S EQUIPMENT, INC. - COOLIDGE",
+            "geometry": {
+                "location": {
+                    "lat": 32.95286399249916,
+                    "lon": -111.52311801910402,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-83",
+            "formatted_phone_number": "5207234181",
+            "url": "www.msequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "121 WATLINE AVENUE",
+                "fax": "9055029960",
+                "mail": "glawrence@genrep.com",
+                "pointtype": "Dealer",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.genrep.com"
+            },
+            "formatted_address": "121 WATLINE AVENUE, L4Z 1P2 MISSISSAUGA, Regional Municipality of Peel, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GENREP LTD/LTEE - MISSISSAUGA",
+            "geometry": {
+                "location": {
+                    "lat": 43.62374329139295,
+                    "lon": -79.66987967491151,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-00",
+            "formatted_phone_number": "9055029950",
+            "url": "www.genrep.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "12353 NORTH MURPHY ROAD",
+                "fax": "5205689449",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.msequipment.com"
+            },
+            "formatted_address": "12353 NORTH MURPHY ROAD, 85138 MARICOPA, Pinal County, Arizona, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "M & S EQUIPMENT, INC. - MARICOPA",
+            "geometry": {
+                "location": {
+                    "lat": 32.992503267110216,
+                    "lon": -111.9420576095581,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-84",
+            "formatted_phone_number": "5205689922",
+            "url": "www.msequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "HIGHWAY 39 WEST",
+                "fax": "3066342299",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://redheadequipment.ca/"
+            },
+            "formatted_address": "HIGHWAY 39 WEST, S4A 2A7 ESTEVAN, Division No. 2, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - ESTEVAN",
+            "geometry": {
+                "location": {
+                    "lat": 49.705450547903666,
+                    "lon": -103.95982503890991,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-96",
+            "formatted_phone_number": "3066344788",
+            "url": "https://redheadequipment.ca/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "N/A",
+                "fax": "6022692306",
+                "pointtype": "Dealer",
+                "services": "~SN~MN~MP~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "dhartley@hinckleyyachts.com"
+            },
+            "formatted_address": "N/A, 85379 N/A, Maricopa County, Arizona, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N/A",
+            "geometry": {
+                "location": {
+                    "lat": 33.590018387932346,
+                    "lon": -112.34475374221802,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-00",
+            "formatted_phone_number": "6022693581",
+            "url": "dhartley@hinckleyyachts.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "26295 MC 85",
+                "fax": "6233273744",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.msequipment.com"
+            },
+            "formatted_address": "26295 MC 85, 85326 BUCKEYE, Maricopa County, Arizona, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "M & S EQUIPMENT, INC. - BUCKEYE",
+            "geometry": {
+                "location": {
+                    "lat": 33.368581503687366,
+                    "lon": -112.6170301437378,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-74",
+            "formatted_phone_number": "6233273740",
+            "url": "www.msequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "975 SOUTH MAIN STREET",
+                "fax": "7177099049",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.hoober.com"
+            },
+            "formatted_address": "975 SOUTH MAIN STREET, 17201 CHAMBERSBURG, Franklin County, Pennsylvania, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HOOBER, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 39.92179156620464,
+                    "lon": -77.66587257385254,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-126238-00",
+            "formatted_phone_number": "7172643533",
+            "url": "www.hoober.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "14795 HWY. 2",
+                "fax": "9059821503",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.hubinter.com"
+            },
+            "formatted_address": "14795 HWY. 2, L9L1B5  PORT PERRY, Regional Municipality of Durham, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HUB INTERNATIONAL EQUIPMENT LTD. - PORT PERRY",
+            "geometry": {
+                "location": {
+                    "lat": 44.08697622923243,
+                    "lon": -78.98500442504883,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-77",
+            "formatted_phone_number": "9059821500",
+            "url": "www.hubinter.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "6 COOLIDGE AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "6 COOLIDGE AVENUE, 32174 ORMOND BEACH, Volusia County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CHRIS BROWN MARINE",
+            "geometry": {
+                "location": {
+                    "lat": 29.273185200004523,
+                    "lon": -81.0606586933136,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-94",
+            "formatted_phone_number": "(386) 677-0824",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "751 SOUTH RIDGEWOOD AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "751 SOUTH RIDGEWOOD AVENUE, 32174 ORMOND BEACH, Volusia County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RAY'S MARINE POWER",
+            "geometry": {
+                "location": {
+                    "lat": 29.264490556612163,
+                    "lon": -81.04987621307373,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-62",
+            "formatted_phone_number": "(787) 538-1010",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "12 GOLDEN MILE RD.",
+                "fax": "7053243505",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.hubinter.com"
+            },
+            "formatted_address": "12 GOLDEN MILE RD., K9V4R4  LINDSAY, Kawartha Lakes Division, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HUB INTERNATIONAL EQUIPMENT LTD. - LINDSAY",
+            "geometry": {
+                "location": {
+                    "lat": 44.33136183769593,
+                    "lon": -78.71400475502016,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-76",
+            "formatted_phone_number": "7053246136",
+            "url": "www.hubinter.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "HWY #1 EAST,",
+                "fax": "3067212899",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://redheadequipment.ca/"
+            },
+            "formatted_address": "HWY #1 EAST,, S4N 7L2 REGINA, Division No. 6, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - REGINA",
+            "geometry": {
+                "location": {
+                    "lat": 50.447755867978636,
+                    "lon": -104.55292582511903,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-91",
+            "formatted_phone_number": "3067212666",
+            "url": "https://redheadequipment.ca/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "6779 CARLISLE PIKE",
+                "fax": "7177661580",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.grofftractor.com"
+            },
+            "formatted_address": "6779 CARLISLE PIKE, 17050 MECHANICSBURG, Cumberland County, Pennsylvania, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GROFF TRACTOR - MECHANICSBURG",
+            "geometry": {
+                "location": {
+                    "lat": 40.23568066605124,
+                    "lon": -77.06513285636903,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-111637-00",
+            "formatted_phone_number": "7177667671",
+            "url": "www.grofftractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "305 CR 17A",
+                "fax": "00 ",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.gladeandgroveused.com/"
+            },
+            "formatted_address": "305 CR 17A, 33825 AVON PARK, Highlands County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GLADE & GROVE - AVON PARK",
+            "geometry": {
+                "location": {
+                    "lat": 27.617145706658384,
+                    "lon": -81.5046501159668,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-156812-00",
+            "formatted_phone_number": "877 513 8182",
+            "url": "https://www.gladeandgroveused.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "11 RIDGEWAY AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "11 RIDGEWAY AVENUE, 32922 COCOA, Brevard County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NOAH'S ARK REPAIR SERVICE",
+            "geometry": {
+                "location": {
+                    "lat": 28.357086346235587,
+                    "lon": -80.73069334030153,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-74",
+            "formatted_phone_number": "(321) 639-8070",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "806 EAST MAIN STREET",
+                "mail": "andrew@a1mds.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://a1mds.com/"
+            },
+            "formatted_address": "806 EAST MAIN STREET, 28532 HAVELOCK, Craven County, North Carolina, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "A1 MARINE & DIESEL SERVICES, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 34.86629405046029,
+                    "lon": -76.8998658657074,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-79",
+            "formatted_phone_number": "2527231468",
+            "url": "http://a1mds.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "362 BLACKBURN ROAD",
+                "fax": "7173544022",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.hooverdiesel.com"
+            },
+            "formatted_address": "362 BLACKBURN ROAD, 17566 QUARRYVILLE, Lancaster County, Pennsylvania, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HOOVERTEC, LLC",
+            "geometry": {
+                "location": {
+                    "lat": 39.85297774513853,
+                    "lon": -76.12540483474733,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-187128-00",
+            "formatted_phone_number": "7177868839",
+            "url": "www.hooverdiesel.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "114 SOUTH SHIRK ROAD",
+                "fax": "7173544022",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.hooverdiesel.com"
+            },
+            "formatted_address": "114 SOUTH SHIRK ROAD, 17557 EARL TOWNSHIP, Lancaster County, Pennsylvania, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HOOVERTEC, LLC",
+            "geometry": {
+                "location": {
+                    "lat": 40.092641483372745,
+                    "lon": -76.1137855052948,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-187127-00",
+            "formatted_phone_number": "7173543322",
+            "url": "www.hooverdiesel.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "212 N. CARLTON AVE.",
+                "mail": "iaguirre@jordanimplement.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jordanimplement.com"
+            },
+            "formatted_address": "212 N. CARLTON AVE., 92225 BLYTHE, Riverside County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JORDAN IMPLEMENT - BLYTHE",
+            "geometry": {
+                "location": {
+                    "lat": 33.612117523161,
+                    "lon": -114.6093213558197,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-79",
+            "formatted_phone_number": "7609225186",
+            "url": "www.jordanimplement.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2604 SERVICE ROAD",
+                "fax": "3067782154",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.redheadequipment.ca"
+            },
+            "formatted_address": "2604 SERVICE ROAD, S9H SWIFT CURRENT, Division No. 8, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - SWIFT CURRENT",
+            "geometry": {
+                "location": {
+                    "lat": 50.28523992367781,
+                    "lon": -107.86501407623292,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-89",
+            "formatted_phone_number": "3067732951",
+            "url": "http://www.redheadequipment.ca"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1992 WILLIAMS ROAD",
+                "fax": "8636129292",
+                "mail": "JHELFRICH@RIVERFORESTYC.COM",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://riverforestyc.com/"
+            },
+            "formatted_address": "1992 WILLIAMS ROAD, 33471 MOORE HAVEN, Glades County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RFYC (RIVER FOREST YACHTING CENTERS) - MOORE HAVEN",
+            "geometry": {
+                "location": {
+                    "lat": 26.7966081498865,
+                    "lon": -81.29449367523193,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-76",
+            "formatted_phone_number": "8636120003",
+            "url": "http://riverforestyc.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "6565 EAST 30TH STREET",
+                "fax": "9287268082",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.boothmachineryinc.com/"
+            },
+            "formatted_address": "6565 EAST 30TH STREET, 85365 YUMA, Yuma County, Arizona, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BOOTH MACHINERY, INC. - YUMA",
+            "geometry": {
+                "location": {
+                    "lat": 32.67261587171056,
+                    "lon": -114.5199716091156,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-99",
+            "formatted_phone_number": "9287266500",
+            "url": "https://www.boothmachineryinc.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3440 WESTVIEW DRIVE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "3440 WESTVIEW DRIVE, 34104 NAPLES, Collier County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "THE HINCKLEY COMPANY - NAPLES",
+            "geometry": {
+                "location": {
+                    "lat": 26.150218273188106,
+                    "lon": -81.76338672637941,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-72",
+            "formatted_phone_number": "(401) 683-7114",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "983 New Harvest Road",
+                "fax": "00 ",
+                "mail": "ebaker@gladeandgrove.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.gladeandgroveused.com/"
+            },
+            "formatted_address": "983 New Harvest Road, 34142 IMMOKALEE, Collier County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GLADE & GROVE - IMMOKALEE",
+            "geometry": {
+                "location": {
+                    "lat": 26.41340506538559,
+                    "lon": -81.40186786651613,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-156813-00",
+            "formatted_phone_number": "800 2223093",
+            "url": "https://www.gladeandgroveused.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "83 HARBOR ROAD",
+                "mail": "justrightmarine@embarqmail.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://justrightautomarine.embarqspace.com/"
+            },
+            "formatted_address": "83 HARBOR ROAD, 27981 WANCHESE, Dare County, North Carolina, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JUST RIGHT AUTO & MARINE",
+            "geometry": {
+                "location": {
+                    "lat": 35.843725689321104,
+                    "lon": -75.63030123710632,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-99",
+            "formatted_phone_number": "2524751000",
+            "url": "http://justrightautomarine.embarqspace.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "9150 SW PENNSYLVANIA AVENUE",
+                "fax": "7722874148",
+                "mail": "GWHARTON@RIVERFORESTYC.COM",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://riverforestyc.com/"
+            },
+            "formatted_address": "9150 SW PENNSYLVANIA AVENUE, 34997 STUART, Martin County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RFYC (RIVER FOREST YACHTING CENTERS) - STUART",
+            "geometry": {
+                "location": {
+                    "lat": 27.094423851070776,
+                    "lon": -80.29484510421754,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-77",
+            "formatted_phone_number": "7722874131",
+            "url": "http://riverforestyc.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "ROUTE 130 &PENNSAUKEN ST,",
+                "fax": "8004704779",
+                "mail": "chuckcook@maesco.com",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.maesco.com"
+            },
+            "formatted_address": "ROUTE 130 &PENNSAUKEN ST,, 08077 CINNAMINSON TWP, Burlington County, New Jersey, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MID-ATLANTIC ENGINE SUPPLY CO.",
+            "geometry": {
+                "location": {
+                    "lat": 39.985661722283055,
+                    "lon": -75.01471281051636,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125698-00",
+            "formatted_phone_number": "8002578133",
+            "url": "www.maesco.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "4550 SE BOATYARD DRIVE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "4550 SE BOATYARD DRIVE, 34997 STUART, Martin County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "THE HINCKLEY COMPANY - STUART",
+            "geometry": {
+                "location": {
+                    "lat": 27.14957927469328,
+                    "lon": -80.19283533096313,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-78",
+            "formatted_phone_number": "(401) 683-7114",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1006 S Main Street",
+                "fax": "561 996 2048",
+                "mail": "ihwager@gmail.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.gladeandgroveused.com/"
+            },
+            "formatted_address": "1006 S Main Street, 33430 BELLE GLADE, Palm Beach County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GLADE & GROVE - BELLE GLADE",
+            "geometry": {
+                "location": {
+                    "lat": 26.66911876719674,
+                    "lon": -80.67126631736755,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-156791-00",
+            "formatted_phone_number": "800 433 4451",
+            "url": "https://www.gladeandgroveused.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "307 NORTH RAILROAD AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "307 NORTH RAILROAD AVENUE, 08242 RIO GRANDE, Cape May County, New Jersey, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "ECKEL'S DIESEL LLC",
+            "geometry": {
+                "location": {
+                    "lat": 39.023042972619585,
+                    "lon": -74.87751245498657,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-83",
+            "formatted_phone_number": "6098866595",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2225 IDLEWILD ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "2225 IDLEWILD ROAD, 33410 PALM BEACH GARDENS, Palm Beach County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AMERICAN MARINE TECH",
+            "geometry": {
+                "location": {
+                    "lat": 26.848434941251217,
+                    "lon": -80.0679087638855,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-90",
+            "formatted_phone_number": "(561) 691-3388",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1280 E. MAIN STREET",
+                "mail": "jgonzalez@jordanimplement.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jordanimplement.com"
+            },
+            "formatted_address": "1280 E. MAIN STREET, 92227 BRAWLEY, Imperial County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JORDAN IMPLEMENT - BRAWLEY",
+            "geometry": {
+                "location": {
+                    "lat": 32.9782661384038,
+                    "lon": -115.52056431770325,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-87",
+            "formatted_phone_number": "7603443322",
+            "url": "www.jordanimplement.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "950 S. DOGWOOD RD.",
+                "mail": "agalindo@jordanimplement.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jordanimplement.com"
+            },
+            "formatted_address": "950 S. DOGWOOD RD., 92243 EL CENTRO, Imperial County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JORDAN IMPLEMENT - EL CENTRO",
+            "geometry": {
+                "location": {
+                    "lat": 32.784054474367565,
+                    "lon": -115.5363142490387,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-82",
+            "formatted_phone_number": "7603523215",
+            "url": "www.jordanimplement.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "HIGHWAY 16 NORTH",
+                "fax": "3069342776",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://redheadequipment.ca/"
+            },
+            "formatted_address": "HIGHWAY 16 NORTH, S7K 7E8  SASKATOON, Division No. 11, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - SASKATOON",
+            "geometry": {
+                "location": {
+                    "lat": 52.14605820774572,
+                    "lon": -106.61184310913086,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-97",
+            "formatted_phone_number": "3069343555",
+            "url": "https://redheadequipment.ca/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2420 SASK DR. S.",
+                "fax": "3067522523",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://redheadequipment.ca/"
+            },
+            "formatted_address": "2420 SASK DR. S., S0E 1A0 MELFORT, Division No. 14, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - MELFORT",
+            "geometry": {
+                "location": {
+                    "lat": 52.83764334851747,
+                    "lon": -104.59053039550781,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-90",
+            "formatted_phone_number": "3067522273",
+            "url": "https://redheadequipment.ca/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "25 GIFFORD STREET",
+                "fax": "6132254690",
+                "mail": "glawrence@genrep.com",
+                "pointtype": "Sub Dealer",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.genrep.com"
+            },
+            "formatted_address": "25 GIFFORD STREET, K2E 7S3 OTTAWA, Ottawa Division, Ontario, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GENREP LTD/LTEE - OTTAWA",
+            "geometry": {
+                "location": {
+                    "lat": 45.332749910848314,
+                    "lon": -75.71380376815796,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-84",
+            "formatted_phone_number": "6132259244",
+            "url": "www.genrep.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1700 NW 27TH STREET",
+                "fax": "(954)-239-5190",
+                "mail": "service@outdrives.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.outdrives.com"
+            },
+            "formatted_address": "1700 NW 27TH STREET, 33311 OAKLAND PARK, Broward County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PERFORMANCE MARINE TRADING",
+            "geometry": {
+                "location": {
+                    "lat": 26.15953074005528,
+                    "lon": -80.16504764556886,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-61",
+            "formatted_phone_number": "(954)-212-9777",
+            "url": "www.outdrives.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "197 PRINCETON AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "197 PRINCETON AVENUE, 08724 BRICK, Ocean County, New Jersey, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JERSEY SHORE DIESEL",
+            "geometry": {
+                "location": {
+                    "lat": 40.061519345296354,
+                    "lon": -74.11515355110168,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-94",
+            "formatted_phone_number": "(732) 295-6691",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3700 HACIENDA BOULEVARD",
+                "fax": "7547018822",
+                "mail": "info@rbgrove.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://rbgrovemarine.com"
+            },
+            "formatted_address": "3700 HACIENDA BOULEVARD, 33314 DAVIE, Broward County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "R.B. GROVE INC.",
+            "geometry": {
+                "location": {
+                    "lat": 26.075576157089333,
+                    "lon": -80.21444320678712,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-80",
+            "formatted_phone_number": "3054770277",
+            "url": "http://rbgrovemarine.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1816 N DIXIE HWY",
+                "fax": "9547648821",
+                "mail": "henrik@marinedieselservices.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.marinedieselservices.com"
+            },
+            "formatted_address": "1816 N DIXIE HWY, 33305 FORT LAUDERDALE, Broward County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MARINE DIESEL SERVICE, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 26.151807319610246,
+                    "lon": -80.13150930404665,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-58",
+            "formatted_phone_number": "9543269568",
+            "url": "www.marinedieselservices.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3190 SW 4TH AVENUE",
+                "fax": "9547632872",
+                "mail": "contact@mshs.com",
+                "pointtype": "Dealer",
+                "services": "~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.mshs.com/"
+            },
+            "formatted_address": "3190 SW 4TH AVENUE, 33315 FORT LAUDERDALE, Broward County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MOTOR-SERVICES HUGO STAMP, INC.",
+            "geometry": {
+                "location": {
+                    "lat": 26.085829265181037,
+                    "lon": -80.14601469039917,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-00",
+            "formatted_phone_number": "9547633660",
+            "url": "https://www.mshs.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2901 SW 2ND AVENUE",
+                "fax": "(954) 763-6734",
+                "mail": "Sales@ampsfl.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.ampsfl.com"
+            },
+            "formatted_address": "2901 SW 2ND AVENUE, 33315 FORT LAUDERDALE, Broward County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "ATLANTIC MARINE POWER SYSTEMS",
+            "geometry": {
+                "location": {
+                    "lat": 26.0878913419674,
+                    "lon": -80.1431179046631,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-89",
+            "formatted_phone_number": "(954) 763-7141",
+            "url": "www.ampsfl.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "6991 SHRIMP ROAD",
+                "fax": "3058510055",
+                "mail": "jcottis@keywestengine.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.keywestengine.com/"
+            },
+            "formatted_address": "6991 SHRIMP ROAD, 33040 KEY WEST, Monroe County, Florida, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "KEY WEST ENGINE SERVICE",
+            "geometry": {
+                "location": {
+                    "lat": 24.565995980390372,
+                    "lon": -81.7392683029175,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-84",
+            "formatted_phone_number": "3052969919",
+            "url": "http://www.keywestengine.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "HWY. 11",
+                "fax": "3067638618",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://redheadequipment.ca/"
+            },
+            "formatted_address": "HWY. 11, S6V 5R8 PRINCE ALBERT, Division No. 15, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - PRINCE ALBERT",
+            "geometry": {
+                "location": {
+                    "lat": 53.12903234789203,
+                    "lon": -105.80594658851625,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-99",
+            "formatted_phone_number": "3067526454",
+            "url": "https://redheadequipment.ca/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1 ANCHORAGE WAY",
+                "mail": "service@dieseltechlasvegas.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.dieseltechlasvegas.com/"
+            },
+            "formatted_address": "1 ANCHORAGE WAY, 11520 FREEPORT, Nassau County, New York, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "DIESEL TECH INC.",
+            "geometry": {
+                "location": {
+                    "lat": 40.62813033156639,
+                    "lon": -73.57535362243654,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-93",
+            "formatted_phone_number": "5168673246",
+            "url": "http://www.dieseltechlasvegas.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "255 SOUTH KETCHAM AVENUE",
+                "fax": "6312641601",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.stevesmarine.com/"
+            },
+            "formatted_address": "255 SOUTH KETCHAM AVENUE, 11701 AMITYVILLE, Suffolk County, New York, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "STEVE'S MARINE SERVICE",
+            "geometry": {
+                "location": {
+                    "lat": 40.662312643220645,
+                    "lon": -73.42371225357056,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-68",
+            "formatted_phone_number": "6312641600",
+            "url": "http://www.stevesmarine.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "837 SEAVIEW AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "837 SEAVIEW AVENUE, 06607 BRIDGEPORT, Fairfield County, Connecticut, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRIDGEPORT BOAT WORKS",
+            "geometry": {
+                "location": {
+                    "lat": 41.17385714660171,
+                    "lon": -73.17309737205507,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-86",
+            "formatted_phone_number": "(860) 536-9651",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "HWY. 16 E.",
+                "fax": "3064452722",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://redheadequipment.ca/"
+            },
+            "formatted_address": "HWY. 16 E., S9A 2X5 NORTH BATTLEFORD, Division No. 16, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - NORTH BATTLEFORD",
+            "geometry": {
+                "location": {
+                    "lat": 52.75915208236406,
+                    "lon": -108.28486561775209,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-94",
+            "formatted_phone_number": "3064458128",
+            "url": "https://redheadequipment.ca/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "453 EXCHANGE STREET",
+                "fax": "8023884967",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.champlainvalleyequipment.com"
+            },
+            "formatted_address": "453 EXCHANGE STREET, 05753 MIDDLEBURY, Addison County, Vermont, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CHAMPLAIN VALLEY EQUIPMENT, INC. - MIDDLEBURY",
+            "geometry": {
+                "location": {
+                    "lat": 44.02483038682377,
+                    "lon": -73.1715202331543,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-92",
+            "formatted_phone_number": "8023884967",
+            "url": "www.champlainvalleyequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "19474 INDUSTRY PARKWAY DRIVE",
+                "fax": "6613270203",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.boothmachineryinc.com/"
+            },
+            "formatted_address": "19474 INDUSTRY PARKWAY DRIVE, 93308 BAKERSFIELD, Humboldt County, Nevada, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BOOTH MACHINERY, INC. - BAKERSFIELD",
+            "geometry": {
+                "location": {
+                    "lat": 41.347215551561376,
+                    "lon": -119.07128334045412,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-98",
+            "formatted_phone_number": "6613271641",
+            "url": "https://www.boothmachineryinc.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "682 MONTEE DOUGLASS",
+                "fax": "4502450255",
+                "mail": "napierville@claudejoyal.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.claudejoyal.com"
+            },
+            "formatted_address": "682 MONTEE DOUGLASS, J0J 1L0 NAPIERVILLE, Les Jardins-de-Napierville, Québec, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CLAUDE JOYAL - NAPIERVILLE",
+            "geometry": {
+                "location": {
+                    "lat": 45.19641849816892,
+                    "lon": -73.42783212661745,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-83",
+            "formatted_phone_number": "4502453565",
+            "url": "www.claudejoyal.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "7 FRANKLIN PARK WEST",
+                "fax": "8025243007",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.champlainvalleyequipment.com"
+            },
+            "formatted_address": "7 FRANKLIN PARK WEST, 05478 ST ALBANS, Franklin County, Vermont, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CHAMPLAIN VALLEY EQUIPMENT, INC. - ST ALBANS",
+            "geometry": {
+                "location": {
+                    "lat": 44.83594657655906,
+                    "lon": -73.07326555252077,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-97",
+            "formatted_phone_number": "8025246782",
+            "url": "www.champlainvalleyequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1654 RANG SAINT-HENRI",
+                "fax": "4502968220",
+                "mail": "ghyslainnoiseux@claudejoyal.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.claudejoyal.com"
+            },
+            "formatted_address": "1654 RANG SAINT-HENRI, J0J 2J0 STANBRIDGE STATION, Brome-Missisquoi, Québec, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CLAUDE JOYAL - STANBRIDGE STATION",
+            "geometry": {
+                "location": {
+                    "lat": 45.142267991563116,
+                    "lon": -73.02956700325012,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-81",
+            "formatted_phone_number": "4502968201",
+            "url": "www.claudejoyal.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "145 PEARL STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.noankshipyard.com/"
+            },
+            "formatted_address": "145 PEARL STREET, 06340 GROTON, New London County, Connecticut, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NOANK SHIPYARD - GROTON",
+            "geometry": {
+                "location": {
+                    "lat": 41.31964772649592,
+                    "lon": -71.98891282081605,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-59",
+            "formatted_phone_number": "8605369651",
+            "url": "http://www.noankshipyard.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "35 WATER STREET",
+                "fax": "8605362086",
+                "mail": "bayside.diesel.svcs@snet.net",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.baysidediesel.com"
+            },
+            "formatted_address": "35 WATER STREET, 06355 MYSTIC, New London County, Connecticut, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BAYSIDE DIESEL SERVICES",
+            "geometry": {
+                "location": {
+                    "lat": 41.351025148473354,
+                    "lon": -71.97192907333375,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-88",
+            "formatted_phone_number": "8605362038",
+            "url": "www.baysidediesel.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2 WASHINGTON STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.noankshipyard.com/"
+            },
+            "formatted_address": "2 WASHINGTON STREET, 06355 MYSTIC, New London County, Connecticut, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "NOANK SHIPYARD - MYSTIC",
+            "geometry": {
+                "location": {
+                    "lat": 41.350984879058636,
+                    "lon": -71.97028756141663,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-70",
+            "formatted_phone_number": "8605369651",
+            "url": "http://www.noankshipyard.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "72 KUBOTA DRIVE",
+                "fax": "8022291807",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.champlainvalleyequipment.com"
+            },
+            "formatted_address": "72 KUBOTA DRIVE, 05602 BERLIN, Washington County, Vermont, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CHAMPLAIN VALLEY EQUIPMENT, INC. - BERLIN",
+            "geometry": {
+                "location": {
+                    "lat": 44.2376281003865,
+                    "lon": -72.52625584602356,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-99",
+            "formatted_phone_number": "8022230021",
+            "url": "www.champlainvalleyequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "390 ROUTE 137",
+                "fax": "4507872748",
+                "mail": "st-denis@claudejoyal.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.claudejoyal.com"
+            },
+            "formatted_address": "390 ROUTE 137, J0H 1K0 SAINT-DENIS-SUR-RICHELIEU, La Vallée-du-Richelieu, Québec, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CLAUDE JOYAL - SAINT-DENIS-SUR-RICHELIEU",
+            "geometry": {
+                "location": {
+                    "lat": 45.77660047158116,
+                    "lon": -73.14681172370912,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-87",
+            "formatted_phone_number": "4507872105",
+            "url": "www.claudejoyal.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "311 EAST KERN AVENUE",
+                "fax": "5596850452",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.linderequipment.com"
+            },
+            "formatted_address": "311 EAST KERN AVENUE, 93274 TULARE, Tulare County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "LINDER EQUIPMENT CO.",
+            "geometry": {
+                "location": {
+                    "lat": 36.20671081269106,
+                    "lon": -119.34405326843263,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-95",
+            "formatted_phone_number": "5596855000",
+            "url": "www.linderequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "37 AVENUE 4404",
+                "fax": "3067903466",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://redheadequipment.ca/"
+            },
+            "formatted_address": "37 AVENUE 4404, S9V 1R6 LLOYDMINSTER, Division No. 17, Saskatchewan, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "REDHEAD EQUIPMENT - LLOYDMINSTER",
+            "geometry": {
+                "location": {
+                    "lat": 53.27927036294674,
+                    "lon": -109.9717926979065,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-98",
+            "formatted_phone_number": "3068253434",
+            "url": "https://redheadequipment.ca/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "79 STATE STREET",
+                "fax": "4017837784",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.riengine.com/"
+            },
+            "formatted_address": "79 STATE STREET, 02882 NARRAGANSETT, Washington County, Rhode Island, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RHODE ISLAND ENGINE CO.",
+            "geometry": {
+                "location": {
+                    "lat": 41.38043932550269,
+                    "lon": -71.51042819023132,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-65",
+            "formatted_phone_number": "4017891021",
+            "url": "https://www.riengine.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1 RUE PRINCIPALE",
+                "fax": "8193962602",
+                "mail": "marcellanoie@claudejoyal.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.claudejoyal.com"
+            },
+            "formatted_address": "1 RUE PRINCIPALE, J0C 1L0 SAINT-GUILLAUME, Drummond, Québec, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CLAUDE JOYAL - SAINT-GUILLAUME",
+            "geometry": {
+                "location": {
+                    "lat": 45.877991365409954,
+                    "lon": -72.77368426322937,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-80",
+            "formatted_phone_number": "8193962161",
+            "url": "www.claudejoyal.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1 LITTLE HARBOR LANDING",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.hinckleyyachts.com/"
+            },
+            "formatted_address": "1 LITTLE HARBOR LANDING, 02871 PORTSMOUTH, Newport County, Rhode Island, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "THE HINCKLEY COMPANY - PORTSMOUTH",
+            "geometry": {
+                "location": {
+                    "lat": 41.58520377820443,
+                    "lon": -71.28628134727478,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-67",
+            "formatted_phone_number": "4016837100",
+            "url": "https://www.hinckleyyachts.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2108 ROUTE 5",
+                "fax": "8027662139",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.champlainvalleyequipment.com"
+            },
+            "formatted_address": "2108 ROUTE 5, 05855 DERBY, Orleans County, Vermont, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CHAMPLAIN VALLEY EQUIPMENT, INC. - DERBY",
+            "geometry": {
+                "location": {
+                    "lat": 44.969959640882955,
+                    "lon": -72.12416052818298,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-125634-98",
+            "formatted_phone_number": "8027662400",
+            "url": "www.champlainvalleyequipment.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "35 Pequit Street",
+                "fax": "00 1 781 8219391",
+                "mail": "info@fmgenerator.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.fmgenerator.com"
+            },
+            "formatted_address": "35 Pequit Street, 02021 CANTON, Norfolk County, Massachusetts, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "FM GENERATOR",
+            "geometry": {
+                "location": {
+                    "lat": 42.16117666470222,
+                    "lon": -71.14195704460144,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-S10152-00",
+            "formatted_phone_number": "00 1 800 2536617",
+            "url": "https://www.fmgenerator.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "708 N OREGON AVENUE",
+                "fax": "5095471031",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.sseqinc.com"
+            },
+            "formatted_address": "708 N OREGON AVENUE, 99301 PASCO, Franklin County, Washington, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "S.S. EQ. INC.",
+            "geometry": {
+                "location": {
+                    "lat": 46.239420155675134,
+                    "lon": -119.08388972282411,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-88",
+            "formatted_phone_number": "5095471795",
+            "url": "www.sseqinc.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3 WHALERS WAY",
+                "fax": "5085927317",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "3 WHALERS WAY, 02719 FAIRHAVEN, Bristol County, Massachusetts, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "YANKEE MARINE DIESEL",
+            "geometry": {
+                "location": {
+                    "lat": 41.64757479591604,
+                    "lon": -70.88682532310486,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-63",
+            "formatted_phone_number": "5085094941",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "600 SOUTH STATE HIGHWAY 59",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MG~MC~MP~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "600 SOUTH STATE HIGHWAY 59, 95341 STOCKTON, Merced County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N & S TRACTOR CO. - STOCKTON",
+            "geometry": {
+                "location": {
+                    "lat": 37.27943121008189,
+                    "lon": -120.48672795295715,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-93",
+            "formatted_phone_number": "(209) 383-5888",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "S HWY 59, 600",
+                "fax": "2093810901",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MG~MC~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nstractor.com"
+            },
+            "formatted_address": "S HWY 59, 600, 95341 MERCED, Merced County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N & S TRACTOR CO. - MERCED",
+            "geometry": {
+                "location": {
+                    "lat": 37.27943121008189,
+                    "lon": -120.48672795295715,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-81",
+            "formatted_phone_number": "2093835888",
+            "url": "www.nstractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "32 TIOGA WAY",
+                "fax": "7816391467",
+                "mail": "info@HansenMarine.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://hansenmarine.com/"
+            },
+            "formatted_address": "32 TIOGA WAY, 01945 MARBLEHEAD, Essex County, Massachusetts, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "HANSEN MARINE",
+            "geometry": {
+                "location": {
+                    "lat": 42.510932992936986,
+                    "lon": -70.85666656494139,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-82",
+            "formatted_phone_number": "7816313282",
+            "url": "http://hansenmarine.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2173 BLOSSOM STREET",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MG~MC~MP~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "2173 BLOSSOM STREET, 93620 DOS PALOS, Merced County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N & S TRACTOR CO. - DOS PALOS",
+            "geometry": {
+                "location": {
+                    "lat": 36.98570583938422,
+                    "lon": -120.63037633895875,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-97",
+            "formatted_phone_number": "(209) 392-2161",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1215 WEST GLENWOOD AVENUE",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MG~MC~MP~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "1215 WEST GLENWOOD AVENUE, 95380 TURLOCK, Stanislaus County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N & S TRACTOR CO. - TURLOCK",
+            "geometry": {
+                "location": {
+                    "lat": 37.477667857774655,
+                    "lon": -120.86055278778076,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-96",
+            "formatted_phone_number": "(209) 634-1777",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "345059 RR 5-3",
+                "mail": "info@genrep.com",
+                "pointtype": "Sub Dealer",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.genrep.com"
+            },
+            "formatted_address": "345059 RR 5-3, T0M 0M0 CAROLINE, Division No. 9, Alberta, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GENREP LTD/LTEE - CAROLINE",
+            "geometry": {
+                "location": {
+                    "lat": 52.09375248403287,
+                    "lon": -114.73978400230406,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-82",
+            "formatted_phone_number": "4035971662",
+            "url": "www.genrep.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2348 GOLDEN HILL ROAD",
+                "fax": "8052399608",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.coastaltractor.com"
+            },
+            "formatted_address": "2348 GOLDEN HILL ROAD, 93446 PASO ROBLES, San Luis Obispo County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "COASTAL TRACTOR - PASO ROBLES",
+            "geometry": {
+                "location": {
+                    "lat": 35.643974988537515,
+                    "lon": -120.65725207328796,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-76",
+            "formatted_phone_number": "8052395772",
+            "url": "www.coastaltractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "377 MAIN STREET",
+                "mail": "DIESELSMITH.MASS@GMAIL.COM",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.dieselsmithllc.com/"
+            },
+            "formatted_address": "377 MAIN STREET, 02639 DENNIS PORT, Barnstable County, Massachusetts, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "DIESEL SMITH LLC",
+            "geometry": {
+                "location": {
+                    "lat": 41.66542637188544,
+                    "lon": -70.13385415077211,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-85",
+            "formatted_phone_number": "5086945306",
+            "url": "http://www.dieselsmithllc.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "110 EAST SAN ANTONIO DRIVE",
+                "fax": "8313853900",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.coastaltractor.com"
+            },
+            "formatted_address": "110 EAST SAN ANTONIO DRIVE, 93930 KING CITY, Monterey County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "COASTAL TRACTOR - KING CITY",
+            "geometry": {
+                "location": {
+                    "lat": 36.221357090452514,
+                    "lon": -121.1270570755005,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-75",
+            "formatted_phone_number": "8313855401",
+            "url": "www.coastaltractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "3056 COLUSA HIGHWAY",
+                "fax": "5309237672",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nstractor.com"
+            },
+            "formatted_address": "3056 COLUSA HIGHWAY, 95993 YUBA CITY, Sutter County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N & S NORTH, INC. - YUBA CITY",
+            "geometry": {
+                "location": {
+                    "lat": 39.14073723034199,
+                    "lon": -121.67327284812929,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-80",
+            "formatted_phone_number": "5309237675",
+            "url": "www.nstractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "142 LAFAYETTE STREET",
+                "fax": "2078463639",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.yankeemarina.com"
+            },
+            "formatted_address": "142 LAFAYETTE STREET, 04096 YARMOUTH, Cumberland County, Maine, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "YANKEE MARINA & BOATYARD",
+            "geometry": {
+                "location": {
+                    "lat": 43.79509042397479,
+                    "lon": -70.17361521720888,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-64",
+            "formatted_phone_number": "2078464326",
+            "url": "www.yankeemarina.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "17720 105 Ave. NW",
+                "fax": "00 1 780 4830386",
+                "mail": "rlee@rockymtn.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.rockymtn.com/"
+            },
+            "formatted_address": "17720 105 Ave. NW, T5S1G4 EDMONTON, Division No. 11, Alberta, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "ROCKY MOUNTAIN EQUIPMENT - EDMONTON",
+            "geometry": {
+                "location": {
+                    "lat": 53.549034807676456,
+                    "lon": -113.6273002624512,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-100201-00",
+            "formatted_phone_number": "00 1 780 4862273",
+            "url": "https://www.rockymtn.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "214 CUNDY'S HARBOR ROAD",
+                "mail": "jrs7055@gmail.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.jakesrepairservice.com/"
+            },
+            "formatted_address": "214 CUNDY'S HARBOR ROAD, 04079 HARPSWELL, Cumberland County, Maine, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JAKE'S REPAIR SERVICE",
+            "geometry": {
+                "location": {
+                    "lat": 43.84074875121908,
+                    "lon": -69.8994505405426,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-92",
+            "formatted_phone_number": "2075047055",
+            "url": "https://www.jakesrepairservice.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "10 HARRIS PLACE",
+                "fax": "8317571300",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.coastaltractor.com"
+            },
+            "formatted_address": "10 HARRIS PLACE, 93901 SALINAS, Monterey County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "COASTAL TRACTOR - SALINAS",
+            "geometry": {
+                "location": {
+                    "lat": 36.64160764366631,
+                    "lon": -121.61360979080202,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-94",
+            "formatted_phone_number": "8317574101",
+            "url": "www.coastaltractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1960 STATE HIGHWAY 20",
+                "fax": "5304588144",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nstractor.com"
+            },
+            "formatted_address": "1960 STATE HIGHWAY 20, 95932 COLUSA, Colusa County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N & S NORTH, INC. - COLUSA",
+            "geometry": {
+                "location": {
+                    "lat": 39.19792265652399,
+                    "lon": -122.03513503074646,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-91",
+            "formatted_phone_number": "5304582166",
+            "url": "www.nstractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "827 NORTH TEHAMA STREET",
+                "fax": "5309344362",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.nstractor.com"
+            },
+            "formatted_address": "827 NORTH TEHAMA STREET, 95988 WILLOWS, Glenn County, California, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "N & S NORTH, INC. - WILLOWS",
+            "geometry": {
+                "location": {
+                    "lat": 39.53074916864813,
+                    "lon": -122.19407200813296,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-92",
+            "formatted_phone_number": "5309343382",
+            "url": "www.nstractor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "120 TILLSON AVENUE",
+                "fax": "2075940407",
+                "mail": "jemmike@midcoast.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.journeysendmarina.com"
+            },
+            "formatted_address": "120 TILLSON AVENUE, 04841 ROCKLAND, Knox County, Maine, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JOURNEY'S END MARINA",
+            "geometry": {
+                "location": {
+                    "lat": 44.10501405816337,
+                    "lon": -69.10312414169312,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-96",
+            "formatted_phone_number": "2075944444",
+            "url": "www.journeysendmarina.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "6640 SOUTH MYRTLE ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "6640 SOUTH MYRTLE ROAD, 97457 MYRTLE CREEK, Douglas County, Oregon, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "METALCRAFT",
+            "geometry": {
+                "location": {
+                    "lat": 43.04118283356571,
+                    "lon": -123.18274497985843,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-60",
+            "formatted_phone_number": "5418636313",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "1 JASPERS WAY",
+                "fax": "2072443208",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "1 JASPERS WAY, 04612 BERNARD, Hancock County, Maine, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JAMES RICH BOAT YARD",
+            "geometry": {
+                "location": {
+                    "lat": 44.25688782378067,
+                    "lon": -68.37871313095093,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-87",
+            "formatted_phone_number": "2072443208",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "130 SHORE ROAD",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "130 SHORE ROAD, 04679 SOUTHWEST HARBOR, Hancock County, Maine, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "THE HINCKLEY COMPANY - SOUTHWEST HARBOR",
+            "geometry": {
+                "location": {
+                    "lat": 44.26603129420783,
+                    "lon": -68.30579996109009,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-73",
+            "formatted_phone_number": "(207) 244-5531",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "12900 NW MARINA WAY",
+                "mail": "sales@myharbor.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.myharbor.com"
+            },
+            "formatted_address": "12900 NW MARINA WAY, 97231 PORTLAND, Multnomah County, Oregon, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MULTNOMAH YACHT REPAIR & COMMERCIAL MARINE POWER SYSTEMS",
+            "geometry": {
+                "location": {
+                    "lat": 45.61826239548614,
+                    "lon": -122.80636668205263,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-71",
+            "formatted_phone_number": "5037371651",
+            "url": "http://www.myharbor.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "917 US-1 SUITE 1",
+                "fax": "2075468901",
+                "mail": "harnessthepower@kennedymarine.net",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "https://kennedymarineengineering.com/"
+            },
+            "formatted_address": "917 US-1 SUITE 1, 04680 STEUBEN, Washington County, Maine, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "KENNEDY MARINE ENGINEERING",
+            "geometry": {
+                "location": {
+                    "lat": 44.51099029293119,
+                    "lon": -67.91300654411316,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-98",
+            "formatted_phone_number": "2075467139",
+            "url": "https://kennedymarineengineering.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "17893 WASHINGTON 20",
+                "fax": "3607578067",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.farmersequip.com"
+            },
+            "formatted_address": "17893 WASHINGTON 20, 98233 BURLINGTON, Skagit County, Washington, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "FARMERS EQUIPMENT COMPANY - BURLINGTON",
+            "geometry": {
+                "location": {
+                    "lat": 48.465423681207085,
+                    "lon": -122.36048698425293,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-90",
+            "formatted_phone_number": "3607576081",
+            "url": "www.farmersequip.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "2696 ROEDER AVENUE",
+                "fax": "3607338886",
+                "mail": "care@tricountydieselmarine.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://tricountydieselmarine.com/"
+            },
+            "formatted_address": "2696 ROEDER AVENUE, 98225 BELLINGHAM, Whatcom County, Washington, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TRI COUNTY DIESEL MARINE",
+            "geometry": {
+                "location": {
+                    "lat": 48.760347598043786,
+                    "lon": -122.50510096549986,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-66",
+            "formatted_phone_number": "3607338880",
+            "url": "http://tricountydieselmarine.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "410 19TH STREET",
+                "fax": "3603546910",
+                "pointtype": "Authorized Workshop",
+                "services": "~MN~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.farmersequip.com"
+            },
+            "formatted_address": "410 19TH STREET, 98264 LYNDEN, Whatcom County, Washington, US",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "FARMERS EQUIPMENT COMPANY - LYNDEN",
+            "geometry": {
+                "location": {
+                    "lat": 48.941748272410635,
+                    "lon": -122.4794375896454,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-190405-89",
+            "formatted_phone_number": "3603544451",
+            "url": "www.farmersequip.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "18 FIFTH STREET",
+                "fax": "2507541790",
+                "mail": "sales@trenddiesel.com",
+                "pointtype": "Authorized Workshop",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.trenddiesel.com/"
+            },
+            "formatted_address": "18 FIFTH STREET, V9R 1M7 NANAIMO, British Columbia, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TREND DIESEL",
+            "geometry": {
+                "location": {
+                    "lat": 49.15537646530795,
+                    "lon": -123.93924593925479,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-USA-155882-75",
+            "formatted_phone_number": "2507541776",
+            "url": "http://www.trenddiesel.com/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "568 ROUTE 100",
+                "mail": "sales@smithsdieselandpower.ca",
+                "pointtype": "Authorized Workshop",
+                "services": "~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "www.smithsdieselandpower.ca"
+            },
+            "formatted_address": "568 ROUTE 100, E5N 6Z8 NAUWIGEWAUK, Kings County, New Brunswick, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "SMITH'S DIESEL AND POWER",
+            "geometry": {
+                "location": {
+                    "lat": 45.49697733174472,
+                    "lon": -65.8643889427185,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-125635-88",
+            "formatted_phone_number": "(506)-832-3249",
+            "url": "www.smithsdieselandpower.ca"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "15709 101 Street",
+                "fax": "00 1 780 3575177",
+                "mail": "sosachoff@rockymtn.com",
+                "pointtype": "Authorized Workshop Direct",
+                "services": "~MN~MG~MP~MZ",
+                "statusGeo": "MAN",
+                "web": "https://www.rockymtn.com/"
+            },
+            "formatted_address": "15709 101 Street, T8V0P2 GRANDE PRAIRIE, Division No. 19, Alberta, CA",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "ROCKY MOUNTAIN EQUIPMENT - GRANDE PRAIRIE",
+            "geometry": {
+                "location": {
+                    "lat": 55.222689772446316,
+                    "lon": -118.79750490188599,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CAN-120328-00",
+            "formatted_phone_number": "00 1 780 8827637",
+            "url": "https://www.rockymtn.com/"
+        }
+    }
+]

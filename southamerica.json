@@ -1,0 +1,2843 @@
+[
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Dr. Altino Teixeira, 1003",
+                "mail": "gustavo.pacheco@bamaq.com.br",
+                "pointtype": "Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.bamaq.com.br"
+            },
+            "formatted_address": "Dr. Altino Teixeira, 1003, 41290-00 SALVADOR, Bahia, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BAMAQ - SALVADOR",
+            "geometry": {
+                "location": {
+                    "lat": -12.909923624550752,
+                    "lon": -38.45207333564758,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148976-00",
+            "formatted_phone_number": "+55 71 3246-1700",
+            "url": "www.bamaq.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR101",
+                "mail": "everton.barreto@servel.com.br",
+                "pointtype": "Dealer",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.servel.com.br"
+            },
+            "formatted_address": "BR101, 49160-00 NOSSA SENHORA DO SOCORRO, Sergipe, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "SERVEL",
+            "geometry": {
+                "location": {
+                    "lat": -10.853411103282903,
+                    "lon": -37.13595628738403,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145883-00",
+            "formatted_phone_number": "+55 79 3279 3200",
+            "url": "www.servel.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Manoel Athayde",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Manoel Athayde, 39445-00 JANAÚBA, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO AUTO MECÂNICA MIGUEL",
+            "geometry": {
+                "location": {
+                    "lat": -15.808089773825948,
+                    "lon": -43.30733299255372,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-90",
+            "formatted_phone_number": "+55 38 3821 1124",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Professor Moraes Rego, 574",
+                "mail": "gustavo.pacheco@bamaq.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.bamaq.com.br"
+            },
+            "formatted_address": "Avenida Professor Moraes Rego, 574, 50670-42 RECIFE, Pernambuco, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BAMAQ - RECIFE",
+            "geometry": {
+                "location": {
+                    "lat": -8.043730556634943,
+                    "lon": -34.944108724594116,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148976-98",
+            "formatted_phone_number": "+55 81 3139-7900 ",
+            "url": "www.bamaq.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Deputado Plínio Ribeiro",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Deputado Plínio Ribeiro, 39401-47 MONTES CLAROS, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO MONTE DIESEL",
+            "geometry": {
+                "location": {
+                    "lat": -16.72191605377104,
+                    "lon": -43.84461164474487,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-96",
+            "formatted_phone_number": "+55 38 3215 1313",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Castelo",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Castelo, 29163-40 SERRA, Espírito Santo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO AVANTE REPAROS",
+            "geometry": {
+                "location": {
+                    "lat": -20.21746222170703,
+                    "lon": -40.266008377075195,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-80",
+            "formatted_phone_number": "+55 27 3064 2590",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. João Palácio",
+                "mail": "marcos.honorato@brasif.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.brasif.com.br"
+            },
+            "formatted_address": "Av. João Palácio, 29160-22 ESPÍRITO SANTO, Serra, Espírito Santo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRASIF MÁQUINAS - ESPÍRITO SANTO",
+            "geometry": {
+                "location": {
+                    "lat": -20.238744112111217,
+                    "lon": -40.27550339698792,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-87",
+            "formatted_phone_number": "+55 27 2121 3311 ",
+            "url": "www.brasif.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rodovia Governador Mario Covas, 485, Km 291",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rodovia Governador Mario Covas, 485, Km 291, 29156-57 CARIACICA, Espírito Santo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RETÍFICA GLOBO",
+            "geometry": {
+                "location": {
+                    "lat": -20.277464841978084,
+                    "lon": -40.392769575119026,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-71",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Margarida Assis Fonseca",
+                "mail": "marcos.honorato@brasif.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.brasif.com.br"
+            },
+            "formatted_address": "Rua Margarida Assis Fonseca, 30855-07 MINAS GERAIS, Belo Horizonte, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRASIF MÁQUINAS - MINAS GERAIS",
+            "geometry": {
+                "location": {
+                    "lat": -19.928339644474146,
+                    "lon": -44.01366591453553,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-89",
+            "formatted_phone_number": "+55 31 2129 3800 ",
+            "url": "www.brasif.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rodovia BR 381",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rodovia BR 381, 07053-17 CONTAGEM, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO ALFA PEÇAS",
+            "geometry": {
+                "location": {
+                    "lat": -19.94921709140585,
+                    "lon": -44.0118956565857,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-82",
+            "formatted_phone_number": "+55 31 3363 4466",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Paracatu",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Paracatu, 38610-00 UNAÍ, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO BAP DIESEL",
+            "geometry": {
+                "location": {
+                    "lat": -16.365336014736748,
+                    "lon": -46.90237283706665,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-92",
+            "formatted_phone_number": "+55 38 3676 2072",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Prefeito Wall Ferraz, 4670",
+                "mail": "gustavo.pacheco@bamaq.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.bamaq.com.br"
+            },
+            "formatted_address": "Avenida Prefeito Wall Ferraz, 4670, 64040-84 TERESINA, Piauí, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BAMAQ - TERESINA",
+            "geometry": {
+                "location": {
+                    "lat": -5.129991501109928,
+                    "lon": -42.79264926910401,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148976-95",
+            "formatted_phone_number": "+55 86 2107-7800",
+            "url": "www.bamaq.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Carlos Alberto Chebabe",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Carlos Alberto Chebabe, 28073-50 CAMPOS DOS GOYTACAZES, Rio de Janeiro, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO DRAGÃO DIESEL",
+            "geometry": {
+                "location": {
+                    "lat": -21.68327189523323,
+                    "lon": -41.3111686706543,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-98",
+            "formatted_phone_number": "+55 22 2726 6066",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Presidente Tancredo Neves",
+                "mail": "resendediesel@netsite.com.br",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.retificaresende.com.br"
+            },
+            "formatted_address": "Avenida Presidente Tancredo Neves, 38706-40 PATOS DE MINAS, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RESENDE DIESEL",
+            "geometry": {
+                "location": {
+                    "lat": -18.620910362796113,
+                    "lon": -46.51161789894105,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-96",
+            "formatted_phone_number": "+55 34 3822 1700",
+            "url": "www.retificaresende.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "SCIA , Cidade Do Automóvel",
+                "mail": "marcos.honorato@brasif.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.brasif.com.br"
+            },
+            "formatted_address": "SCIA , Cidade Do Automóvel, 71250-04 DISTRITO FEDERAL, Brasília, Distrito Federal, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRASIF MÁQUINAS - DISTRITO FEDERAL",
+            "geometry": {
+                "location": {
+                    "lat": -15.7920677405458,
+                    "lon": -47.97146916389466,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-85",
+            "formatted_phone_number": "+55 61 2102 3400 ",
+            "url": "www.brasif.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Ade Conjunto Águas Claras",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Ade Conjunto Águas Claras, 70297-40 TAGUATINGA, Brasília, Distrito Federal, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO TAGUA MOTORS",
+            "geometry": {
+                "location": {
+                    "lat": -15.87694321830002,
+                    "lon": -48.015457391738906,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-83",
+            "formatted_phone_number": "+55 61 3399 6000",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "MICHELIN ROAD HYDEPARK INDUSTRIAL EST 10",
+                "fax": "0044 ",
+                "mail": "info@tbfthompson.com",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "MICHELIN ROAD HYDEPARK INDUSTRIAL EST 10, BT36 8BX Newtonabbey, UNITED KINGDOM",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TBF THOMPSON",
+            "geometry": {
+                "location": {
+                    "lat": -14.599406833712704,
+                    "lon": -28.673146963119507,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-GBR-89856-78",
+            "formatted_phone_number": "0044 023 9034 2001",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Brasil",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.dispetral.com.br"
+            },
+            "formatted_address": "Avenida Brasil, 36081-50 JUÍZ DE FORA, Juiz de Fora, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO DISPETRAL",
+            "geometry": {
+                "location": {
+                    "lat": -21.731586772740282,
+                    "lon": -43.39132905006409,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-78",
+            "formatted_phone_number": "+55 31 3222 9578",
+            "url": "www.dispetral.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Garcia Rodrigues Paes",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Garcia Rodrigues Paes, 36081-50 JUÍZ DE FORA, Juiz de Fora, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO SUDESTE RETÍFICA MOTORES",
+            "geometry": {
+                "location": {
+                    "lat": -21.73372951612175,
+                    "lon": -43.38835716247559,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-63",
+            "formatted_phone_number": "+55 32 3223 9608",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Silvio Favarini",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.retificaformiguense.com.br"
+            },
+            "formatted_address": "Rua Silvio Favarini, 35570-00 FORMIGA, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA FORMIGUENSE",
+            "geometry": {
+                "location": {
+                    "lat": -20.47122474166476,
+                    "lon": -45.41942238807679,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-60",
+            "formatted_phone_number": "+55 37 3329 2691",
+            "url": "www.retificaformiguense.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Quadra 212 Sul",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.retificabandeirantes.com.br"
+            },
+            "formatted_address": "Quadra 212 Sul, 77024-02 PALMAS, Tocantins, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA BANDEIRANTES",
+            "geometry": {
+                "location": {
+                    "lat": -10.249584894527334,
+                    "lon": -48.32436203956603,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-66",
+            "formatted_phone_number": "+55 63 3223 4300",
+            "url": "www.retificabandeirantes.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Qd. 103 Norte (ACNO 1) Av. LO 02",
+                "mail": "marcos.honorato@brasif.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.brasif.com.br"
+            },
+            "formatted_address": "Qd. 103 Norte (ACNO 1) Av. LO 02, 77001-00 TOCANTINS, Palmas, Tocantins, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRASIF MÁQUINAS - TOCANTINS",
+            "geometry": {
+                "location": {
+                    "lat": -10.181026835055052,
+                    "lon": -48.33381414413452,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-91",
+            "formatted_phone_number": "+55 63 2111 5300 ",
+            "url": "www.brasif.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Rio De Janeiro",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.retificabandeirantes.com.br"
+            },
+            "formatted_address": "Avenida Rio De Janeiro, 77485-00 GURUPI, Tocantins, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA BANDEIRANTES",
+            "geometry": {
+                "location": {
+                    "lat": -11.721547242226954,
+                    "lon": -49.07466173171997,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-77",
+            "formatted_phone_number": "+55 63 3311 5900",
+            "url": "www.retificabandeirantes.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Lusitânia",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Lusitânia, 21011-63 RIO DE JANEIRO, Rio de Janeiro, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO REBMAR",
+            "geometry": {
+                "location": {
+                    "lat": -22.829460623489283,
+                    "lon": -43.279749155044556,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-95",
+            "formatted_phone_number": "+55 21 2139 4599",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Estrada do Vigário Geral",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Estrada do Vigário Geral, 21241-10 RIO DE JANEIRO, Rio de Janeiro, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO AM RETÍFICA",
+            "geometry": {
+                "location": {
+                    "lat": -22.816357890053027,
+                    "lon": -43.31207513809204,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-81",
+            "formatted_phone_number": "+55 21 3448 8450",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua da Regeneração",
+                "mail": "marcos.honorato@brasif.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.brasif.com.br"
+            },
+            "formatted_address": "Rua da Regeneração, 21040-17 RIO DE JANEIRO, Rio de Janeiro, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRASIF MÁQUINAS - RIO DE JANEIRO",
+            "geometry": {
+                "location": {
+                    "lat": -22.85865787488296,
+                    "lon": -43.248721361160285,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-88",
+            "formatted_phone_number": "+55 21 2123 3000 ",
+            "url": "www.brasif.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR-491",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "glucio.com.br/"
+            },
+            "formatted_address": "BR-491, 37062 VARGINHA, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO G. LÚCIO RETÍFICA DE MOTORES",
+            "geometry": {
+                "location": {
+                    "lat": -21.61483382786745,
+                    "lon": -45.41978716850282,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-97",
+            "formatted_phone_number": "+55 35 3690 5858",
+            "url": "glucio.com.br/"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Recife",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Recife, 27212-23 VOLTA REDONDA, Rio de Janeiro, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA SUL FLUMINENSE",
+            "geometry": {
+                "location": {
+                    "lat": -22.494685811936492,
+                    "lon": -44.06972408294678,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-55",
+            "formatted_phone_number": "+55 24 3340 2860",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "ESTRADA R 6- ESQUINA COM RUA GOIAS N 1260 BAIRRO: ALVORADA",
+                "mail": "gerson@agritex.com.br",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.agritex.com.br"
+            },
+            "formatted_address": "ESTRADA R 6- ESQUINA COM RUA GOIAS N 1260 BAIRRO: ALVORADA, 75259-80 GAÚCHA DO NORTE, Senador Canedo, Goiás, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AGRITEX - GAÚCHA DO NORTE",
+            "geometry": {
+                "location": {
+                    "lat": -16.686730729612883,
+                    "lon": -49.1055715084076,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148803-98",
+            "formatted_phone_number": "(66) 3582-1016",
+            "url": "http://www.agritex.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. Do Comercio",
+                "mail": "marcos.honorato@brasif.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.brasif.com.br"
+            },
+            "formatted_address": "Av. Do Comercio, 74670-01 GOIÁS, Goiânia, Goiás, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRASIF MÁQUINAS - GOIÁS",
+            "geometry": {
+                "location": {
+                    "lat": -16.63931689620675,
+                    "lon": -49.24249291419982,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-86",
+            "formatted_phone_number": "+55 62 4005 5858",
+            "url": "www.brasif.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Anhanguera",
+                "mail": "alvorada@alvoradadieselcenter.com.br",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.retificaalvorada.com.br"
+            },
+            "formatted_address": "Avenida Anhanguera, 74043-01 GOIÂNIA, Goiás, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA ALVORADA",
+            "geometry": {
+                "location": {
+                    "lat": -16.674942607912666,
+                    "lon": -49.258854389190674,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-79",
+            "formatted_phone_number": "+55 62 3297 1088",
+            "url": "www.retificaalvorada.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avendida Antônio Thomaz F. de Resende,1323",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avendida Antônio Thomaz F. de Resende,1323, 38402-34 UBERLÂNDIA, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MMARRA - UBERLÂNDIA",
+            "geometry": {
+                "location": {
+                    "lat": -18.84894940630837,
+                    "lon": -48.29813003540038,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-93",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av: Antônio Thomaz F. Rezende",
+                "mail": "lucas.trindade@tracan.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.tracan.com.br"
+            },
+            "formatted_address": "Av: Antônio Thomaz F. Rezende, 38402-23 UBERLANDIA, Uberlândia, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TRACAN - UBERLANDIA",
+            "geometry": {
+                "location": {
+                    "lat": -18.8709404180761,
+                    "lon": -48.286038637161255,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-97",
+            "formatted_phone_number": "+55 34 2102 5400 ",
+            "url": "www.tracan.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Deputado José Marcus Cherem, 2045",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Deputado José Marcus Cherem, 2045, 38040-50 UBERABA, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RETÍFICA RETIUB",
+            "geometry": {
+                "location": {
+                    "lat": -19.776062886157284,
+                    "lon": -47.926386594772346,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-91",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Antonio Mariosa",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Antonio Mariosa, 37550-00 POUSO ALEGRE, Minas Gerais, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO MM COMÉRCIO DE PEÇAS",
+            "geometry": {
+                "location": {
+                    "lat": -22.24286774710464,
+                    "lon": -45.95394372940064,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-93",
+            "formatted_phone_number": "+55 35 3422 1521",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR 135, Km 09, 196",
+                "mail": "gustavo.pacheco@bamaq.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.bamaq.com.br"
+            },
+            "formatted_address": "BR 135, Km 09, 196, 65056-48 SÃO LUIS, São Luís, Maranhão, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BAMAQ - SÃO LUIS",
+            "geometry": {
+                "location": {
+                    "lat": -2.580935283631014,
+                    "lon": -44.24193263053895,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148976-96",
+            "formatted_phone_number": "+55 9) 2107-0330",
+            "url": "www.bamaq.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avendida Bandeirantes, 1600",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avendida Bandeirantes, 1600, 14075-47 RIBEIRÃO PRETO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MMARRA - RIBEIRÃO PRETO",
+            "geometry": {
+                "location": {
+                    "lat": -21.13468449927422,
+                    "lon": -47.784079313278205,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-95",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Edson Souto",
+                "mail": "lucas.trindade@tracan.com.br",
+                "pointtype": "Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.tracan.com.br"
+            },
+            "formatted_address": "Rua Edson Souto, 14095-23 RIBEIRÃO PRETO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TRACAN - RIBEIRÃO PRETO",
+            "geometry": {
+                "location": {
+                    "lat": -21.193865055249105,
+                    "lon": -47.75878071784973,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-00",
+            "formatted_phone_number": "+55 16 3456 5400",
+            "url": "www.tracan.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua José da Silva, 898",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua José da Silva, 898, 14090-04 RIBEIRÃO PRETO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MRA AUTO PEÇAS",
+            "geometry": {
+                "location": {
+                    "lat": -21.176188406476093,
+                    "lon": -47.794636487960815,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-92",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida do café, 2245",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida do café, 2245, 14050-23 RIBEIRÃO PRETO , Ribeirão Preto, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "CENTER PEÇAS",
+            "geometry": {
+                "location": {
+                    "lat": -21.174977873869373,
+                    "lon": -47.83898949623108,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-99",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Na 30, 140",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Na 30, 140, 14780-05 BARRETOS, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RETÍFICA MUNDIAL",
+            "geometry": {
+                "location": {
+                    "lat": -20.553673378587316,
+                    "lon": -48.57030987739564,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-89",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Sebastião Paulo Toledo Pontes",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Sebastião Paulo Toledo Pontes, 12220-38 SÃO JOSÉ DOS CAMPOS, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO SPEED CAR",
+            "geometry": {
+                "location": {
+                    "lat": -23.17679873071835,
+                    "lon": -45.857952833175666,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-61",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Rio Branco",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Rio Branco, 11675-25 CARAGUATATUBA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA BEIRA-MAR",
+            "geometry": {
+                "location": {
+                    "lat": -23.62600662663235,
+                    "lon": -45.42471170425414,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-58",
+            "formatted_phone_number": "+55 12 3887 4242",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Jacinto Ferreira de Souza",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Jacinto Ferreira de Souza, 75920-00 SANTA HELENA DE GOIÁS, Goiás, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA DE MOTORES UBERLÂNDIA",
+            "geometry": {
+                "location": {
+                    "lat": -17.81874915251939,
+                    "lon": -50.59625744819642,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-54",
+            "formatted_phone_number": "+55 64 3641 1663",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Professora Adelia Izique, 709",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Professora Adelia Izique, 709, 14801-38 ARARAQUARA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "SANEL",
+            "geometry": {
+                "location": {
+                    "lat": -21.783940288196842,
+                    "lon": -48.18970441818237,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-68",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Jundiaí",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Jundiaí, 13250-20 ITATIBA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA ITATIBA",
+            "geometry": {
+                "location": {
+                    "lat": -23.009803666683602,
+                    "lon": -46.83997392654419,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-59",
+            "formatted_phone_number": "+55 11 4894 8300",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida José Benedito Braga",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida José Benedito Braga, 08773-02 MOGI DAS CRUZES, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO D. IMPORT COMÉRCIO DE PEÇAS",
+            "geometry": {
+                "location": {
+                    "lat": -23.516085832862824,
+                    "lon": -46.198153495788574,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-99",
+            "formatted_phone_number": "+55 11 4791 3395",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Sargento João Batista Surubbi, 77",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Sargento João Batista Surubbi, 77, 13063-34 CAMPINAS, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AUTOPEC",
+            "geometry": {
+                "location": {
+                    "lat": -22.88573363450697,
+                    "lon": -47.110008001327515,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-76",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Sergipe, 4075",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Sergipe, 4075, 15803-16 CATANDUVA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "LINCE TRACTOR",
+            "geometry": {
+                "location": {
+                    "lat": -21.13009113910077,
+                    "lon": -49.00594353675842,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-98",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Fortaleza da Conceição, 19",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Fortaleza da Conceição, 19, 03625-06 SÃO PAULO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RODRIGOTTO",
+            "geometry": {
+                "location": {
+                    "lat": -23.517600843148063,
+                    "lon": -46.51233673095704,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-69",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. José Alves de Oliveira, Fazenda Grande.",
+                "mail": "marcos.honorato@brasif.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.brasif.com.br"
+            },
+            "formatted_address": "Av. José Alves de Oliveira, Fazenda Grande., 13213-10 SÃO PAULO, Jundiaí, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BRASIF MÁQUINAS - SÃO PAULO",
+            "geometry": {
+                "location": {
+                    "lat": -23.16685649472848,
+                    "lon": -47.005788087844856,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-00",
+            "formatted_phone_number": "+55 11 2136 8300 ",
+            "url": "www.brasif.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Soldado Antonio de Oliveira, 195",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Soldado Antonio de Oliveira, 195, 02176-02 SÃO PAULO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "LEON MOTORES",
+            "geometry": {
+                "location": {
+                    "lat": -23.511668592984694,
+                    "lon": -46.574124097824104,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-72",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Dias da Silva, 1350",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Dias da Silva, 1350, 02114-00 SÃO PAULO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MUNDIAL TRACTOR",
+            "geometry": {
+                "location": {
+                    "lat": -23.515062699172535,
+                    "lon": -46.58547520637512,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-65",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Doutor Afonso Vergueiro, 965",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Doutor Afonso Vergueiro, 965, 02119-00 SÃO PAULO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "ISIVOL",
+            "geometry": {
+                "location": {
+                    "lat": -23.518712495450355,
+                    "lon": -46.58479928970337,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-74",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Nelson de Moraes Lopes, 157",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Nelson de Moraes Lopes, 157, 02052-04 SÃO PAULO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "IVECOMPANY",
+            "geometry": {
+                "location": {
+                    "lat": -23.519243724209474,
+                    "lon": -46.60890698432923,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-73",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Industrial, s/n, Babinsk",
+                "mail": "gerson@agritex.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.agritex.com.br"
+            },
+            "formatted_address": "Avenida Industrial, s/n, Babinsk, 78652-00 CONFRESA, Mato Grosso, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AGRITEX - CONFRESA",
+            "geometry": {
+                "location": {
+                    "lat": -10.655599674571553,
+                    "lon": -51.5742337703705,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148803-96",
+            "formatted_phone_number": "(66) 3564-1444",
+            "url": "http://www.agritex.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Santa Lídia",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Santa Lídia, 13414-03 PIRACICABA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA SÃO CRISTÓVÃO",
+            "geometry": {
+                "location": {
+                    "lat": -22.702870187827987,
+                    "lon": -47.656095027923584,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-56",
+            "formatted_phone_number": "+55 19 3421 0631",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Piraçununga, 165",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Piraçununga, 165, 03187-01 SÃO PAULO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "SCM PRODUTOS",
+            "geometry": {
+                "location": {
+                    "lat": -23.559296129719648,
+                    "lon": -46.57922029495239,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-67",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Laranjal Paulista, 399",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Laranjal Paulista, 399, 13401-63 PIRACICABA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GARAGE 10909",
+            "geometry": {
+                "location": {
+                    "lat": -22.765972325261444,
+                    "lon": -47.648091316223145,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-75",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Tocantins",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.retificaabc.com.br"
+            },
+            "formatted_address": "Rua Tocantins, 09030-19 SANTO ANDRÉ, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETIFICA ABC",
+            "geometry": {
+                "location": {
+                    "lat": -23.670949464193765,
+                    "lon": -46.51770114898681,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-84",
+            "formatted_phone_number": "+55 11 3437 6666",
+            "url": "www.retificaabc.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Marabá, 165 e 169",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Marabá, 165 e 169, 09635-04 SÃO BERNARDO DO CAMPO, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TRENTIN PEÇAS",
+            "geometry": {
+                "location": {
+                    "lat": -23.651167869248265,
+                    "lon": -46.570562124252326,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-62",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "AV INDUSTRIAL N 1260 - SETOR INDUSTRIAL",
+                "mail": "gerson@agritex.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.agritex.com.br"
+            },
+            "formatted_address": "AV INDUSTRIAL N 1260 - SETOR INDUSTRIAL, 78635-00 ÁGUA BOA, Mato Grosso, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AGRITEX -ÁGUA BOA",
+            "geometry": {
+                "location": {
+                    "lat": -14.055264863508235,
+                    "lon": -52.153869867324836,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148803-97",
+            "formatted_phone_number": "(66) 3468-3800",
+            "url": "http://www.agritex.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "AVENIDA SAO PAULO - No. 111 - BAIRRO: CENTRO",
+                "mail": "gerson@agritex.com.br",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.agritex.com.br"
+            },
+            "formatted_address": "AVENIDA SAO PAULO - No. 111 - BAIRRO: CENTRO, 78640-00 CANARANA, Mato Grosso, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AGRITEX - CANARANA",
+            "geometry": {
+                "location": {
+                    "lat": -13.55398048529366,
+                    "lon": -52.26627588272096,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148803-99",
+            "formatted_phone_number": "(66) 3478-1104",
+            "url": "http://www.agritex.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Caetés, 1008",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Caetés, 1008, 17013-11 BAURU, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RETIPEÇAS RETÍFICA DE MOTORES",
+            "geometry": {
+                "location": {
+                    "lat": -22.317485320424527,
+                    "lon": -49.06392216682434,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-70",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "ROD MT-332, ENTRONC C/ESTRADA JOATAO S/N - ESPIGAO DO LESTE",
+                "mail": "gerson@agritex.com.br",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.agritex.com.br"
+            },
+            "formatted_address": "ROD MT-332, ENTRONC C/ESTRADA JOATAO S/N - ESPIGAO DO LESTE, 78670-00 ESPIGÃO DO LESTE, São Félix do Araguaia, Mato Grosso, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AGRITEX - ESPIGÃO DO LESTE",
+            "geometry": {
+                "location": {
+                    "lat": -11.472569984703563,
+                    "lon": -52.534893751144416,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148803-95",
+            "formatted_phone_number": "(66) 3468-1172",
+            "url": "http://www.agritex.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Marginal de Acesso SP 463 a SP 300, 61, Bairro Jardim do Trevo",
+                "mail": "lucas.trindade@tracan.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.tracan.com.br"
+            },
+            "formatted_address": "Marginal de Acesso SP 463 a SP 300, 61, Bairro Jardim do Trevo, 16078-21 ARAÇATUBA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "TRACAN - ARAÇATUBA",
+            "geometry": {
+                "location": {
+                    "lat": -21.172726857145108,
+                    "lon": -50.46588063240053,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-90",
+            "formatted_phone_number": "+55 18 2102 5400",
+            "url": "www.tracan.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "AV SUL S/N ESQ ESTRADA RUA 09 - CAMPO EXPERIMENTAL",
+                "mail": "gerson@agritex.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "http://www.agritex.com.br"
+            },
+            "formatted_address": "AV SUL S/N ESQ ESTRADA RUA 09 - CAMPO EXPERIMENTAL, 78643-00 QUERÊNCIA, State of Mato Grosso, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "AGRITEX - QUERÊNCIA",
+            "geometry": {
+                "location": {
+                    "lat": -12.23875717680501,
+                    "lon": -52.874150276184096,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148803-00",
+            "formatted_phone_number": "(66) 3529-2267",
+            "url": "http://www.agritex.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Alziro Zarur, 442",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Alziro Zarur, 442, 16026-00 ARAÇATUBA, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MMARRA - ARAÇATUBA",
+            "geometry": {
+                "location": {
+                    "lat": -21.215180260978546,
+                    "lon": -50.464775562286384,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-145340-94",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Segunda, Esquina com Avenida 9",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Avenida Segunda, Esquina com Avenida 9, 75830-00 MINEIROS, Goiás, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO RETÍFICA MINEIRENSE",
+            "geometry": {
+                "location": {
+                    "lat": -17.563325368424394,
+                    "lon": -52.55748867988587,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-57",
+            "formatted_phone_number": "+55 64 3661 1874",
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Expedicionário, 1061",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Expedicionário, 1061, 19902-34 OURINHOS, São Paulo, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RETÍFICA WINSTON",
+            "geometry": {
+                "location": {
+                    "lat": -22.98538989461289,
+                    "lon": -49.86591339111329,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-64",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR 316, 3.500",
+                "mail": "gustavo.pacheco@bamaq.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.bamaq.com.br"
+            },
+            "formatted_address": "BR 316, 3.500, 67200-00 MARITUBA, Pará, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BAMAQ - MARITUBA",
+            "geometry": {
+                "location": {
+                    "lat": -1.3651366667756384,
+                    "lon": -48.34244012832642,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148976-97",
+            "formatted_phone_number": "+55 91 3256-1699",
+            "url": "www.bamaq.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rodovia do Café, KM 0,5",
+                "mail": "marcoss@jmalucelli.com.br",
+                "pointtype": "Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jmalucelli.com.br"
+            },
+            "formatted_address": "Rodovia do Café, KM 0,5, 82010-10 CURITIBA, Paraná, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JMALUCELLI - CURITIBA",
+            "geometry": {
+                "location": {
+                    "lat": -25.43108616746945,
+                    "lon": -49.31705832481386,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-00",
+            "formatted_phone_number": "+55 41 3351 5577",
+            "url": "www.jmalucelli.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. Antônio Volpato",
+                "mail": "marcoss@jmalucelli.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jmalucelli.com.br"
+            },
+            "formatted_address": "Av. Antônio Volpato, 87111-01 SARANDI, Paraná, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JMALUCELLI - SARANDI",
+            "geometry": {
+                "location": {
+                    "lat": -23.44353187580713,
+                    "lon": -51.86821460723877,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-98",
+            "formatted_phone_number": "+55 44 3306 1400",
+            "url": "www.jmalucelli.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR 262",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.bombasdieselbomdespacho.com.br"
+            },
+            "formatted_address": "BR 262, 79180-00 BOM DESPACHO, Ribas do Rio Pardo, Mato Grosso do Sul, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PONTO DE SERVIÇO BOMBAS DIESEL BOM DESPACHO",
+            "geometry": {
+                "location": {
+                    "lat": -20.501435938498975,
+                    "lon": -54.24252748489379,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-149049-94",
+            "formatted_phone_number": "+55 37 3522 4050",
+            "url": "www.bombasdieselbomdespacho.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Dr. Reinaldo Schmithausen, 3900",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Dr. Reinaldo Schmithausen, 3900, 88311-48 ITAJAÍ, Santa Catarina, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MOTORES TREVO",
+            "geometry": {
+                "location": {
+                    "lat": -26.890076414986158,
+                    "lon": -48.71906518936157,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-92",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR 101 - Km 210",
+                "mail": "marcoss@jmalucelli.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jmalucelli.com.br"
+            },
+            "formatted_address": "BR 101 - Km 210, 88106-11 SÃO JOSÉ, Santa Catarina, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JMALUCELLI - SÃO JOSÉ",
+            "geometry": {
+                "location": {
+                    "lat": -27.61154626740047,
+                    "lon": -48.64086270332336,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-96",
+            "formatted_phone_number": "+55 48 3205 2400",
+            "url": "www.jmalucelli.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rodovia BR 470, Km 141, 6246",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rodovia BR 470, Km 141, 6246, 89163-65 RIO DO SUL, Santa Catarina, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RETÍFICA TREVO / COPAVEL",
+            "geometry": {
+                "location": {
+                    "lat": -27.21364797856821,
+                    "lon": -49.651733636856086,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-90",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Marechal Deodoro da Fonseca, 4200",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rua Marechal Deodoro da Fonseca, 4200, TUBARÃO, Santa Catarina, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "ELITE TRUCK",
+            "geometry": {
+                "location": {
+                    "lat": -28.4958598988965,
+                    "lon": -49.041810035705566,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-97",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Súper Carretera",
+                "mail": "ederlopes@rodomaq.com.py",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.rodomaq.com.py"
+            },
+            "formatted_address": "Súper Carretera, NUEVE ESPERANZA, Nueva Esperanza, PY",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RODOMAQ - NUEVE ESPERANZA",
+            "geometry": {
+                "location": {
+                    "lat": -24.54282907463448,
+                    "lon": -54.85805153846742,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-PRY-181361-98",
+            "formatted_phone_number": "+595 21 237 6545",
+            "url": "www.rodomaq.com.py"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Alemanha, 612",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Alemanha, 612, 99700-00 ERECHIM, Rio Grande do Sul, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RETÍFICA MOCELLIN",
+            "geometry": {
+                "location": {
+                    "lat": -27.634179931025194,
+                    "lon": -52.28085637092591,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-95",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. Sor Serafina Rodríguez casi Calle 16 Acaray",
+                "mail": "ederlopes@rodomaq.com.py",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.rodomaq.com.py"
+            },
+            "formatted_address": "Av. Sor Serafina Rodríguez casi Calle 16 Acaray, MINGA GUAZÚ, Alto Paraná, PY",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RODOMAQ - MINGA GUAZÚ",
+            "geometry": {
+                "location": {
+                    "lat": -25.48940125459072,
+                    "lon": -54.7596788406372,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-PRY-181361-00",
+            "formatted_phone_number": "+595 21 237 6545",
+            "url": "www.rodomaq.com.py"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR 116, Km 148, 17.463",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "BR 116, Km 148, 17.463, 95054-54 CAXIAS DO SUL, Rio Grande do Sul, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "DISTRIBUIDORA MOTORS PARTS ",
+            "geometry": {
+                "location": {
+                    "lat": -29.154185141222964,
+                    "lon": -51.150144338607795,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-93",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rod. RST 153, KM 1.2",
+                "pointtype": "Authorized Workshop",
+                "services": "~MA~MN~MG~SC~SP~SM~SZ~MZ",
+                "statusGeo": "MAN"
+            },
+            "formatted_address": "Rod. RST 153, KM 1.2, 99032-68 PASSO FUNDO, Rio Grande do Sul, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "IRMAÕS ZANELLA",
+            "geometry": {
+                "location": {
+                    "lat": -28.270057438283914,
+                    "lon": -52.440458536148064,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-99",
+            "formatted_phone_number": null,
+            "url": null
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Rua Voluntários da Pátria",
+                "mail": "marcoss@jmalucelli.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jmalucelli.com.br"
+            },
+            "formatted_address": "Rua Voluntários da Pátria, 90030-00 PORTO ALEGRE, Rio Grande do Sul, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JMALUCELLI - PORTO ALEGRE",
+            "geometry": {
+                "location": {
+                    "lat": -30.002944333260533,
+                    "lon": -51.20721101760864,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-94",
+            "formatted_phone_number": "+55 51 3375 4488",
+            "url": "www.jmalucelli.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. Madame Lynch",
+                "mail": "ederlopes@rodomaq.com.py",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.rodomaq.com.py"
+            },
+            "formatted_address": "Av. Madame Lynch, ASUNCIÓN, Asunción, PY",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "RODOMAQ - ASUNCIÓN",
+            "geometry": {
+                "location": {
+                    "lat": -25.287619632740977,
+                    "lon": -57.54838228225707,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-PRY-181361-99",
+            "formatted_phone_number": "+595 21 237 6545",
+            "url": "www.rodomaq.com.py"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "BR 392",
+                "mail": "marcoss@jmalucelli.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.jmalucelli.com.br"
+            },
+            "formatted_address": "BR 392, 97070-16 SANTA MARIA, Rio Grande do Sul, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "JMALUCELLI - SANTA MARIA",
+            "geometry": {
+                "location": {
+                    "lat": -29.75803473094792,
+                    "lon": -53.78743171691896,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-144998-91",
+            "formatted_phone_number": "+55 55 3219 1576",
+            "url": "www.jmalucelli.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avenida Max Teixeira, 47",
+                "mail": "gustavo.pacheco@bamaq.com.br",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.bamaq.com.br"
+            },
+            "formatted_address": "Avenida Max Teixeira, 47, 69088-74 MANAUS, Amazonas, BR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "BAMAQ - MANAUS",
+            "geometry": {
+                "location": {
+                    "lat": -3.0356654763353883,
+                    "lon": -60.00039339065552,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-BRA-148976-99",
+            "formatted_phone_number": "+55 92 3248-1199 ",
+            "url": "www.bamaq.com.br"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Ruta 8, km 260",
+                "mail": "ramon.erro@comasa.com.uy",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.comasa.com.uy"
+            },
+            "formatted_address": "Ruta 8, km 260, 33000 TREINTA Y TRES, Departamento de Treinta y Tres, UY",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "COMASA - TREINTA Y TRES",
+            "geometry": {
+                "location": {
+                    "lat": -33.217606145243664,
+                    "lon": -54.38956618309021,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-URY-117699-97",
+            "formatted_phone_number": "+598 44557394 ",
+            "url": "www.comasa.com.uy"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Avda Italia s/n y Ruta 3",
+                "mail": "ramon.erro@comasa.com.uy",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.comasa.com.uy"
+            },
+            "formatted_address": "Avda Italia s/n y Ruta 3, 33000 PAYSANDU, Departamento de Treinta y Tres, UY",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "COMASA - PAYSANDU",
+            "geometry": {
+                "location": {
+                    "lat": -33.23345579820151,
+                    "lon": -54.383203983306885,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-URY-117699-99",
+            "formatted_phone_number": "+598 47250408",
+            "url": "www.comasa.com.uy"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Ruta Prov. 30 y Ruta Prov. 5 – Complejo Comercial",
+                "mail": "rabaffy@mayssa.com.ar",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.mayssa.com.ar"
+            },
+            "formatted_address": "Ruta Prov. 30 y Ruta Prov. 5 – Complejo Comercial, 4449 LAS LAJITAS, Anta, Salta, AR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MAYSSA - LAS LAJITAS",
+            "geometry": {
+                "location": {
+                    "lat": -24.72741085157634,
+                    "lon": -64.19628024101257,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-ARG-159047-99",
+            "formatted_phone_number": "+54 387 428 5581",
+            "url": "www.mayssa.com.ar"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Ruta 102, km 42",
+                "mail": "ramon.erro@comasa.com.uy",
+                "pointtype": "Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.comasa.com.uy"
+            },
+            "formatted_address": "Ruta 102, km 42, 12400 MONTEVIDEO, Departamento de Montevideo, UY",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "COMASA - MONTEVIDEO",
+            "geometry": {
+                "location": {
+                    "lat": -34.793153606746905,
+                    "lon": -56.208254098892226,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-URY-117699-00",
+            "formatted_phone_number": "+598 23238888",
+            "url": "www.comasa.com.uy"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "J.M Blanes y Carlos M. Ruiz",
+                "mail": "ramon.erro@comasa.com.uy",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.comasa.com.uy"
+            },
+            "formatted_address": "J.M Blanes y Carlos M. Ruiz, 75100 DOLORES, Departamento de Soriano, UY",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "COMASA - DOLORES",
+            "geometry": {
+                "location": {
+                    "lat": -33.5303412254626,
+                    "lon": -58.21676731109619,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-URY-117699-98",
+            "formatted_phone_number": "+598 5345242",
+            "url": "www.comasa.com.uy"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Ruta Nac. 9, km.",
+                "mail": "rabaffy@mayssa.com.ar",
+                "pointtype": "Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.mayssa.com.ar"
+            },
+            "formatted_address": "Ruta Nac. 9, km., 4400 SALTA, Capital, Salta, AR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "MAYSSA - SALTA",
+            "geometry": {
+                "location": {
+                    "lat": -24.789939104509667,
+                    "lon": -65.3603482246399,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-ARG-159047-00",
+            "formatted_phone_number": "+54 387 428 5581",
+            "url": "www.mayssa.com.ar"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Calle del Arca y Rio Lujan - Marina del Norte",
+                "mail": "info@grupopropeller.com",
+                "pointtype": "Dealer",
+                "services": "~MM~MZ",
+                "statusGeo": "MAN",
+                "web": "www.grupopropeller.com"
+            },
+            "formatted_address": "Calle del Arca y Rio Lujan - Marina del Norte, 1646 SAN FERNANDO, Buenos Aires, AR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "PROPELLER",
+            "geometry": {
+                "location": {
+                    "lat": -34.43553140287303,
+                    "lon": -58.53938341140747,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-ARG-163665-00",
+            "formatted_phone_number": "+54 011 4725 5005",
+            "url": "www.grupopropeller.com"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Colectora Oeste Acceso Norte - Pte. Peron",
+                "mail": "ventas@eurotorque.com.ar",
+                "pointtype": "Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.eurotorque.com.ar"
+            },
+            "formatted_address": "Colectora Oeste Acceso Norte - Pte. Peron, 1406 BUENOS AIRES, Comuna 1, Buenos Aires, AR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "EURO TORQUE",
+            "geometry": {
+                "location": {
+                    "lat": -34.60368262114034,
+                    "lon": -58.38159441947938,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-ARG-163753-00",
+            "formatted_phone_number": "+5411 4481 6611",
+            "url": "www.eurotorque.com.ar"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Bolivia",
+                "mail": "federicotognoli@grumaq.com.ar",
+                "pointtype": "Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.grumaq.com.ar"
+            },
+            "formatted_address": "Bolivia, 2200 SAN LORENZO, Santa Fe, AR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GRUMAQ - SAN LORENZO",
+            "geometry": {
+                "location": {
+                    "lat": -32.73792367999316,
+                    "lon": -60.741627216339126,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-ARG-155648-00",
+            "formatted_phone_number": "+54 3476 425925",
+            "url": "www.grumaq.com.ar"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. Arturo Capdevila",
+                "mail": "federicotognoli@grumaq.com.ar",
+                "pointtype": "Sub Dealer",
+                "services": "~SA~MA~SN~MN~SG~MG~SC~MC~SP~MP~SM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.grumaq.com.ar"
+            },
+            "formatted_address": "Av. Arturo Capdevila, 5000 CORDOBA, Capital, Córdoba, AR",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "GRUMAQ - CORDOBA",
+            "geometry": {
+                "location": {
+                    "lat": -31.37605399280994,
+                    "lon": -64.12545919418335,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-ARG-155648-99",
+            "formatted_phone_number": "+54 351 5697618/9",
+            "url": "www.grumaq.com.ar"
+        }
+    },
+    {
+        "poi": {
+            "additional_information": {
+                "display_address": "Av. Gladys Marín Millie",
+                "mail": "gklempau@kaufmann.cl",
+                "pointtype": "Dealer",
+                "services": "~MP~SM~MM~SZ~MZ",
+                "statusGeo": "MAN",
+                "web": "www.kaufmann.cl"
+            },
+            "formatted_address": "Av. Gladys Marín Millie, SANTIADO DO CHILE, Santiago, Región Metropolitana, CL",
+            "types": [
+                "com.ubiest.usuite.fptColl.motor"
+            ],
+            "name": "KAUFMANN",
+            "geometry": {
+                "location": {
+                    "lat": -33.462352966307975,
+                    "lon": -70.72091460227968,
+                    "alt": "NaN"
+                },
+                "viewport": null,
+                "bounds": null,
+                "location_type": null
+            },
+            "id": "DMD-CHL-170761-00",
+            "formatted_phone_number": "+56 2 2 481 4848",
+            "url": "www.kaufmann.cl"
+        }
+    }
+]
